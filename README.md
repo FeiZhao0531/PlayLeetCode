@@ -15,7 +15,7 @@ LeetCode Training
 |[0033] | Search-in-Rotated-Sorted-Array | Medium | Binary-Search |[0033-Solution]|
 |[0034] | Find-First-and-Last-Position-of-Element-in-Sorted-Array | Medium | Binary-Search | [0034-Solution]|
 |[0054] | Spiral-Matrix | Medium | |[0054-Solution]|
-|[0069] | Sqrt(x) | Easy | [0069-Solution]|
+|[0069] | Sqrt(x) | Easy | Binary-Search | [0069-Solution]|
 |[0075] | Sort-Colors | Medium | Counting-Sort, 3Ways-quick-Sort|[0075-Solution]|
 |[0080] | Remove-Duplicates-from-Sorted-Array-II | Medium | |[0080-Solution]|
 |[0088] | Merge-Sorted-Array | Easy | Merge-Sort |[0088-Solution]|
