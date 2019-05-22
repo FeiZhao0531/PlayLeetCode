@@ -41,17 +41,17 @@ LeetCode Training based on c++
 |[0350] | Intersection-of-Two-Arrays-II                     | Easy      | Hash map                      |[0350-Solution]|
 |[0438] | Find-All-Anagrams-in-a-String                     | Medium    | Sliding-Window, Hash set      |[0438-Solution]|
 |[0447] | Number-of-Boomerangs                              | Easy      | Hash map                      |[0447-Solution]|
-|[0451] | Sort-Characters-By-Frequency                      | Medium    | Hash map                      |[0451-Slution]|
+|[0451] | Sort-Characters-By-Frequency                      | Medium    | Hash map                      |[0451-Solution]|
 |[0454] | 4Sum-II                                           | Medium    | Hash map                      |[0454-Solution]|
 
 
 
 [0001]: https://leetcode.com/problems/two-sum/
-[0001-Solution]: 
+[0001-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0001-Two-Sum
 
 [0003]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [0003-Solution-1]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0003-Longest-Substring-Without-Repeating-Characters
-[0003-Solution-2]: 
+[0003-Solution-2]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0003-Longest-Substring-Without-Repeating-Characters
 
 [0011]: https://leetcode.com/problems/container-with-most-water/
 [0011-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0011-Container-With-Most-Water
@@ -60,10 +60,10 @@ LeetCode Training based on c++
 [0015-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0015-3Sum
 
 [0016]: https://leetcode.com/problems/3sum-closest/
-[0016-Solution]: 
+[0016-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0016-3Sum-Closest
 
 [0018]: https://leetcode.com/problems/4sum/
-[0018-Solution]:
+[0018-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0018-4Sum
 
 [0026]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [0026-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0026-Remove-Duplicates-from-Sorted-Array
@@ -75,7 +75,7 @@ LeetCode Training based on c++
 [0033-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0033-Search-in-Rotated-Sorted-Array
 
 [0049]: https://leetcode.com/problems/group-anagrams/
-[0049-Solution]:
+[0049-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0049-Group-Anagrams
 
 [0054]: https://leetcode.com/problems/spiral-matrix/
 [0054-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0054-Spiral-Matrix
@@ -104,19 +104,19 @@ LeetCode Training based on c++
 [0125-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0125-Valid-Palindrome
 
 [0136]: https://leetcode.com/problems/single-number/
-[0136-Solution]:
+[0136-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0136-Single-Number
 
 [0149]: https://leetcode.com/problems/max-points-on-a-line/
-[0149-Solution]:
+[0149-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0149-Max-Points-on-a-Line
 
 [0167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [0167-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0167-Two-SumII-Input-array-is-sorted
 
 [0202]: https://leetcode.com/problems/happy-number/
-[0202-Solution]:
+[0202-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0202-Happy-Number
 
 [0205]: https://leetcode.com/problems/isomorphic-strings/
-[0205-Solution]:
+[0205-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0205-Isomorphic-Strings
 
 [0209]: https://leetcode.com/problems/minimum-size-subarray-sum/
 [0209-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0209-Minimum-Size-Subarray-Sum
@@ -125,47 +125,40 @@ LeetCode Training based on c++
 [0215-Solution-1]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0215-Kth-Largest-Element-in-an-Array
 
 [0217]: https://leetcode.com/problems/contains-duplicate/
-[0217-Solution]:
+[0217-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0217-Contains-Duplicate
 
 [0219]: https://leetcode.com/problems/contains-duplicate-ii/
-[0219-Solution]:
+[0219-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0219-Contains-Duplicate-II
 
 [0220]: https://leetcode.com/problems/contains-duplicate-iii/
-[0220-Solution]:
+[0220-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0220-Contains-Duplicate-III
 
 [0242]: https://leetcode.com/problems/valid-anagram/
-[0242-Solution]:
+[0242-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0242-Valid-Anagram
 
 [0283]: https://leetcode.com/problems/move-zeroes/
 [0283-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0283-Move-Zeros
 
 [0290]: https://leetcode.com/problems/word-pattern/
-[0290-Solution]:
+[0290-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0290-Word-Pattern
 
 [0344]: https://leetcode.com/problems/reverse-string/
 [0344-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0344-Reverse-String
 
 [0349]: https://leetcode.com/problems/intersection-of-two-arrays/
-[0349-Solution]:
+[0349-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0349-Intersection-of-Two-Arrays
 
 [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
-[0350-Solution]:
+[0350-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0350-Intersection-of-Two-Arrays-II
 
 [0438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 [0438-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0438-Find-All-Anagrams-in-a-String
 
 [0447]: https://leetcode.com/problems/number-of-boomerangs/
-[0447-Solution]:
+[0447-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0447-Number-of-Boomerangs
 
 [0451]: https://leetcode.com/problems/sort-characters-by-frequency/
-[0451-Solution]:
+[0451-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0451-Sort-Characters-By-Frequency
 
 [0454]: https://leetcode.com/problems/4sum-ii/
-[0454-Solution]:
-
-[0344]: https://leetcode.com/problems/reverse-string/
-[0344-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0344-Reverse-String
-
-[0438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
-[0438-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0438-Find-All-Anagrams-in-a-String
-
+[0454-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0454-4Sum-II
