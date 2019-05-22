@@ -7,7 +7,6 @@ LeetCode Training based on c++
 
 | # |  Title  |  Difficulty  |  Method  | _Solution_
 |:-:|:-:|:-:|:-:|:-:|
-<<<<<<< HEAD
 |[0001] | Two-Sum                                           | Easy      | 1.Hash 2.Two-pointers         |[0001-Solution] |
 |[0003] | Longest-Substring-Without-Repeating-Characters    | Medium    | 1.Sliding-Window 2.Hash       |[0003-Solution-1] [0003-Solution-2]|
 |[0011] | Container-With-Most-Water                         | Medium    | Two-pointers                  |[0011-Solution]|
@@ -44,28 +43,7 @@ LeetCode Training based on c++
 |[0447] | Number-of-Boomerangs                              | Easy      | Hash map                      |[0447-Solution]|
 |[0451] | Sort-Characters-By-Frequency                      | Medium    | Hash map                      |[0451-Slution]|
 |[0454] | 4Sum-II                                           | Medium    | Hash map                      |[0454-Solution]|
-=======
-|[0003] | Longest-Substring-Without-Repeating-Characters | Medium | Sliding-Window |[0003-Solution]|
-|[0011] | Container-With-Most-Water | Medium | Two-pointers|[0011-Solution]|
-|[0015] | 3Sum | Medium | Two-pointers|[0015-Solution]|
-|[0026] | Remove-Duplicates-from-Sorted-Array | Easy | |[0026-Solution]|
-|[0027] | Remove-Element | Easy | |[0026-Solution]|
-|[0033] | Search-in-Rotated-Sorted-Array | Medium | Binary-Search |[0033-Solution]|
-|[0034] | Find-First-and-Last-Position-of-Element-in-Sorted-Array | Medium | Binary-Search | [0034-Solution]|
-|[0054] | Spiral-Matrix | Medium | |[0054-Solution]|
-|[0069] | Sqrt(x) | Easy | Binary-Search | [0069-Solution]|
-|[0075] | Sort-Colors | Medium | Counting-Sort, 3Ways-quick-Sort|[0075-Solution]|
-|[0080] | Remove-Duplicates-from-Sorted-Array-II | Medium | |[0080-Solution]|
-|[0088] | Merge-Sorted-Array | Easy | Merge-Sort |[0088-Solution]|
-|[0118] | Pascals-Triangle | Easy | |[0118-Solution]|
-|[0125] | Valid-Palindrome | Easy | Two-pointers |[0125-Solution]|
-|[0167] | Two-SumII-Input-array-is-sorted | Easy | Two-pointers, Binary-Search |[0167-Solution]|
-|[0209] | Minimum-Size-Subarray-Sum | Medium | Sliding-Window|[0209-Solution]|
-|[0215] | Kth-Largest-Element-in-an-Array | Medium | 1-Quick-Sort, 2-Priority-Queue|[0215-Solution-1]|
-|[0283] | Move-Zeros | Easy | |[0283-Solution]|
-|[0344] | Reverse-String | Easy | Two-pointers |[0344-Solution]|
-|[0438] | Find-All-Anagrams-in-a-String | Medium | Sliding-Window, Hash-table |[0438-Solution]|
->>>>>>> 570dc4e729cc294cb9991b39dc5418390e6eaed5
+
 
 
 [0001]: https://leetcode.com/problems/two-sum/
@@ -161,7 +139,6 @@ LeetCode Training based on c++
 
 [0283]: https://leetcode.com/problems/move-zeroes/
 [0283-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0283-Move-Zeros
-<<<<<<< HEAD
 
 [0290]: https://leetcode.com/problems/word-pattern/
 [0290-Solution]:
@@ -186,9 +163,10 @@ LeetCode Training based on c++
 
 [0454]: https://leetcode.com/problems/4sum-ii/
 [0454-Solution]:
-=======
+
 [0344]: https://leetcode.com/problems/reverse-string/
 [0344-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0344-Reverse-String
+
 [0438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 [0438-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0438-Find-All-Anagrams-in-a-String
->>>>>>> 570dc4e729cc294cb9991b39dc5418390e6eaed5
+
