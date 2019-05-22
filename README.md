@@ -16,8 +16,10 @@ LeetCode Training based on c++
 |[0026] | Remove-Duplicates-from-Sorted-Array               | Easy      |                               |[0026-Solution]|
 |[0027] | Remove-Element                                    | Easy      |                               |[0026-Solution]|
 |[0033] | Search-in-Rotated-Sorted-Array                    | Medium    | Binary-Search                 |[0033-Solution]|
+|[0034] | Find-First-and-Last-Position-of-Element-in-Sorted-Array | Medium | Binary-Search |[0034-Solution]|
 |[0049] | Group-Anagrams                                    | Medium    | Hash map                      |[0049-Solution]|
 |[0054] | Spiral-Matrix                                     | Medium    |                               |[0054-Solution]|
+|[0069] | Sqrt(x)                                           | Easy      | Binary-Search                 |[0069-Solution]|
 |[0075] | Sort-Colors                                       | Medium    |Counting-Sort, 3Ways-quick-Sort|[0075-Solution]|
 |[0080] | Remove-Duplicates-from-Sorted-Array-II            | Medium    |                               |[0080-Solution]|
 |[0088] | Merge-Sorted-Array                                | Easy      | Merge-Sort                    |[0088-Solution]|
@@ -74,14 +76,12 @@ LeetCode Training based on c++
 [0033]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 [0033-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0033-Search-in-Rotated-Sorted-Array
 
+[0034]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+[0034-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array
+
 [0049]: https://leetcode.com/problems/group-anagrams/
 [0049-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0049-Group-Anagrams
 
-[0054]: https://leetcode.com/problems/spiral-matrix/
-[0054-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0054-Spiral-Matrix
-
-[0034]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-[0034-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array
 [0054]: https://leetcode.com/problems/spiral-matrix/
 [0054-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0054-Spiral-Matrix
 
