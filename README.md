@@ -73,7 +73,6 @@ LeetCode Training based on c++
 
 [0033]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 [0033-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0033-Search-in-Rotated-Sorted-Array
-<<<<<<< HEAD
 
 [0049]: https://leetcode.com/problems/group-anagrams/
 [0049-Solution]:
@@ -81,14 +80,14 @@ LeetCode Training based on c++
 [0054]: https://leetcode.com/problems/spiral-matrix/
 [0054-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0054-Spiral-Matrix
 
-=======
 [0034]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [0034-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array
 [0054]: https://leetcode.com/problems/spiral-matrix/
 [0054-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0054-Spiral-Matrix
+
 [0069]: https://leetcode.com/problems/sqrtx/
 [0069-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0069-Sqrt(x)
->>>>>>> 570dc4e729cc294cb9991b39dc5418390e6eaed5
+
 [0075]: https://leetcode.com/problems/sort-colors/
 [0075-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0075-Sort-Colors
 
