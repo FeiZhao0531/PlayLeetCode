@@ -34,7 +34,9 @@ public:
         g->next = NULL;
         ListNode* res = smallerHead->next;
         delete smallerHead;
+        smallerHead = NULL;
         delete greaterHead;
+        greaterHead = NULL;
 
         return res;
     }

@@ -26,6 +26,8 @@ public:
         }
         ListNode* res = dummy->next;
         delete dummy;
+        dummy = NULL;
+
         return res;
     }
 };

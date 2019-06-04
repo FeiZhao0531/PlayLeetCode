@@ -53,6 +53,7 @@ private:
         }
         ListNode* res = sumHead->next;
         delete sumHead;
+        sumHead = NULL;
 
         return res;
     }
