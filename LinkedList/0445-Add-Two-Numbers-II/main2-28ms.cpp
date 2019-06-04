@@ -70,7 +70,7 @@ int main()
     mysinglelinkedlist.printSingleLinkedList(l1);
     mysinglelinkedlist.printSingleLinkedList(l2);
 
-    ListNode* head = Solution().addTwoNumbers2(l1,l2);
+    ListNode* head = Solution().addTwoNumbers(l1,l2);
     mysinglelinkedlist.printSingleLinkedList(head);
     mysinglelinkedlist.deleteSingleLinkedList(head);
     //system("pause");

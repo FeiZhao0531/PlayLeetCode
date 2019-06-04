@@ -5,13 +5,14 @@
 #include <iostream>
 #include "../SingleLinkedList.h"
 #include "../SingleLinkedList.cpp"
-#include <vector>
+#include <stack>
 
 using namespace std;
 
 class Solution {
+public:
     // 3 stack  32ms 14.4M
-    ListNode* addTwoNumbers3(ListNode* l1, ListNode* l2) {
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
 
         stack<int> stk1, stk2;
         while( l1) {
@@ -70,7 +71,7 @@ int main()
     mysinglelinkedlist.printSingleLinkedList(l1);
     mysinglelinkedlist.printSingleLinkedList(l2);
 
-    ListNode* head = Solution().addTwoNumbers2(l1,l2);
+    ListNode* head = Solution().addTwoNumbers(l1,l2);
     mysinglelinkedlist.printSingleLinkedList(head);
     mysinglelinkedlist.deleteSingleLinkedList(head);
     //system("pause");
