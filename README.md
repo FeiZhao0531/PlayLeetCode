@@ -8,40 +8,59 @@ LeetCode Training based on c++
 | # |  Title  |  Difficulty  |  Method  | _Solution_
 |:-:|:-:|:-:|:-:|:-:|
 |[0001] | Two-Sum                                           | Easy      | 1.Hash 2.Two-pointers         |[0001-Solution] |
+|[0002] | Add-Two-Numbers                                   | Medium    | Dummy head Node               |[0002-Solution] |
 |[0003] | Longest-Substring-Without-Repeating-Characters    | Medium    | 1.Sliding-Window 2.Hash       |[0003-Solution-1] [0003-Solution-2]|
 |[0011] | Container-With-Most-Water                         | Medium    | Two-pointers                  |[0011-Solution]|
 |[0015] | 3Sum                                              | Medium    | Two-pointers                  |[0015-Solution]|
 |[0016] | 3Sum-Closest                                      | Medium    | Two-pointers                  |[0016-Solution]|
 |[0018] | 4Sum                                              | Medium    | Two-pointers                  |[0018-Solution]|
+|[0019] | Remove-Nth-Node-From-End-of-List                  | Medium    | Two pointers                  |[0019-Solution] |
+|[0021] | Merge-Two-Sorted-Lists                            | Easy      | Dummy head Node               |[0021-Solution] |
+|[0024] | Swap-Nodes-in-Pairs                               | Medium    |                               |[0024-Solution] |
 |[0026] | Remove-Duplicates-from-Sorted-Array               | Easy      |                               |[0026-Solution]|
 |[0027] | Remove-Element                                    | Easy      |                               |[0026-Solution]|
 |[0033] | Search-in-Rotated-Sorted-Array                    | Medium    | Binary-Search                 |[0033-Solution]|
-|[0034] | Find-First-and-Last-Position-of-Element-in-Sorted-Array | Medium | Binary-Search |[0034-Solution]|
+|[0034] | Find-First-and-Last-Position-of-Element-in-Sorted-Array | Medium | Binary-Search              |[0034-Solution]|
 |[0049] | Group-Anagrams                                    | Medium    | Hash map                      |[0049-Solution]|
 |[0054] | Spiral-Matrix                                     | Medium    |                               |[0054-Solution]|
+|[0061] | Rotate-List                                       | Medium    | Two pointers                  |[0061-Solution] |
 |[0069] | Sqrt(x)                                           | Easy      | Binary-Search                 |[0069-Solution]|
 |[0075] | Sort-Colors                                       | Medium    |Counting-Sort, 3Ways-quick-Sort|[0075-Solution]|
 |[0080] | Remove-Duplicates-from-Sorted-Array-II            | Medium    |                               |[0080-Solution]|
+|[0082] | Remove-Duplicates-from-Sorted-List-II             | Medium    | Dummy head Node               |[0082-Solution] |
+|[0083] | Remove-Duplicates-from-Sorted-List                | Easy      |                               |[0083-Solution] |
+|[0086] | Partition-List                                    | Medium    | Dummy head node               |[0086-Solution] |
 |[0088] | Merge-Sorted-Array                                | Easy      | Merge-Sort                    |[0088-Solution]|
+|[0092] | Reverse-Linked-List-II                            | Medium    | Dummy head node               |[0092-Solution] |
 |[0118] | Pascals-Triangle                                  | Easy      |                               |[0118-Solution]|
 |[0125] | Valid-Palindrome                                  | Easy      | Two-pointers                  |[0125-Solution]|
 |[0136] | Single-Number                                     | Easy      | 1.Manipulate bit 2.Hash set   |[0136-Solution]|
+|[0143] | Reorder-List                                      | Medium    | Two pointers                  |[0143-Solution] |     
+|[0147] | Insertion-Sort-List                               | Medium    | Dummy head Node Insert sort   |[0147-Solution] |
+|[0148] | Sort-List                                         | Medium    | Two pointers                  |[0148-Solution] |
 |[0149] | Max-Points-on-a-Line                              | Hard      | Hash map                      |[0149-Solution]|
+|[0160] | Intersection-of-Two-Linked-Lists                  | Easy      |                               |[0160-Solution] |
 |[0167] | Two-SumII-Input-array-is-sorted                   | Easy      | Two-pointers, Binary-Search   |[0167-Solution]|
 |[0202] | Happy-Number                                      | Easy      | Hash set                      |[0202-Solution]|
+|[0203] | Remove-Linked-List-Elements                       | Easy      | Dummy head node               |[0203-Solution] |
 |[0205] | Isomorphic-Strings                                | Easy      | Hash map                      |[0205-Solution]|
+|[0206] | Reverse-Linked-List                               | Easy      |                               |[0206-Solution] |
 |[0209] | Minimum-Size-Subarray-Sum                         | Medium    | Sliding-Window                |[0209-Solution]|
 |[0215] | Kth-Largest-Element-in-an-Array                   | Medium    | 1-Quick-Sort, 2-Priority-Queue|[0215-Solution-1]|
 |[0217] | Contains-Duplicate                                | Easy      | Hash set                      |[0217-Solution]|
 |[0219] | Contains-Duplicate-II                             | Easy      | Hash set                      |[0219-Solution]|
 |[0220] | Contains-Duplicate-III                            | Medium    | Hash set lower-bound          |[0220-Solution]|
+|[0234] | Palindrome-Linked-List                            | Easy      | Two pointers                  |[0234-Solution] |
+|[0237] | Delete-Node-in-a-Linked-List                      | Easy      |                               |[0237-Solution] |
 |[0242] | Valid-Anagram                                     | Easy      | Hash map                      |[0242-Solution]|
 |[0283] | Move-Zeros                                        | Easy      |                               |[0283-Solution]|
 |[0290] | Word-Pattern                                      | Easy      | Hash map                      |[0290-Solution]|
+|[0328] | Odd-Even-Linked-List                              | Medium    | Partition LinkedList          |[0328-Solution] |
 |[0344] | Reverse-String                                    | Easy      | Two-pointers                  |[0344-Solution]|
 |[0349] | Intersection-of-Two-Arrays                        | Easy      | Hash set                      |[0349-Solution]|
 |[0350] | Intersection-of-Two-Arrays-II                     | Easy      | Hash map                      |[0350-Solution]|
 |[0438] | Find-All-Anagrams-in-a-String                     | Medium    | Sliding-Window, Hash set      |[0438-Solution]|
+|[0445] | Add-Two-Numbers-II                                | Medium    | 1.Reverse LinkedList 2.Stack  |[0445-Solution] |
 |[0447] | Number-of-Boomerangs                              | Easy      | Hash map                      |[0447-Solution]|
 |[0451] | Sort-Characters-By-Frequency                      | Medium    | Hash map                      |[0451-Solution]|
 |[0454] | 4Sum-II                                           | Medium    | Hash map                      |[0454-Solution]|
@@ -50,6 +69,9 @@ LeetCode Training based on c++
 
 [0001]: https://leetcode.com/problems/two-sum/
 [0001-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0001-Two-Sum
+
+[0002]: https://leetcode.com/problems/add-two-numbers/description/
+[0002-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0002-Add-Two-Numbers
 
 [0003]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [0003-Solution-1]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0003-Longest-Substring-Without-Repeating-Characters
@@ -66,6 +88,15 @@ LeetCode Training based on c++
 
 [0018]: https://leetcode.com/problems/4sum/
 [0018-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0018-4Sum
+
+[0019]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+[0019-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0019-Remove-Nth-Node-From-End-of-List
+
+[0021]: https://leetcode.com/problems/merge-two-sorted-lists/
+[0021-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0021-Merge-Two-Sorted-Lists
+
+[0024]: https://leetcode.com/problems/swap-nodes-in-pairs/
+[0024-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0024-Swap-Nodes-in-Pairs
 
 [0026]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [0026-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0026-Remove-Duplicates-from-Sorted-Array
@@ -85,6 +116,9 @@ LeetCode Training based on c++
 [0054]: https://leetcode.com/problems/spiral-matrix/
 [0054-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0054-Spiral-Matrix
 
+[0061]: https://leetcode.com/problems/rotate-list/
+[0061-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0061-Rotate-List
+
 [0069]: https://leetcode.com/problems/sqrtx/
 [0069-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0069-Sqrt(x)
 
@@ -94,8 +128,20 @@ LeetCode Training based on c++
 [0080]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 [0080-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0080-Remove-Duplicates-from-Sorted-Array-II
 
+[0082]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+[0082-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0082-Remove-Duplicates-from-Sorted-List-II
+
+[0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+[0083-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0083-Remove-Duplicates-from-Sorted-List
+
+[0086]: https://leetcode.com/problems/partition-list/
+[0086-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0086-Partition-List
+
 [0088]: https://leetcode.com/problems/merge-sorted-array/
 [0088-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0088-Merge-Sorted-Arrary
+
+[0092]: https://leetcode.com/problems/reverse-linked-list-ii/
+[0092-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0092-Reverse-Linked-List-II
 
 [0118]: https://leetcode.com/problems/pascals-triangle/
 [0118-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0118-Pascals-Triangle
@@ -106,8 +152,21 @@ LeetCode Training based on c++
 [0136]: https://leetcode.com/problems/single-number/
 [0136-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0136-Single-Number
 
+
+[0143]: https://leetcode.com/problems/reorder-list/
+[0143-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0143-Reorder-List
+
+[0147]: https://leetcode.com/problems/insertion-sort-list/
+[0147-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0147-Insertion-Sort-List
+
+[0148]: https://leetcode.com/problems/sort-list/
+[0148-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0148-Sort-List
+
 [0149]: https://leetcode.com/problems/max-points-on-a-line/
 [0149-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0149-Max-Points-on-a-Line
+
+[0160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
+[0160-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0160-Intersection-of-Two-Linked-Lists
 
 [0167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [0167-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0167-Two-SumII-Input-array-is-sorted
@@ -115,8 +174,14 @@ LeetCode Training based on c++
 [0202]: https://leetcode.com/problems/happy-number/
 [0202-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0202-Happy-Number
 
+[0203]: https://leetcode.com/problems/remove-linked-list-elements/
+[0203-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0203-Remove-Linked-List-Elements
+
 [0205]: https://leetcode.com/problems/isomorphic-strings/
 [0205-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0205-Isomorphic-Strings
+
+[0206]: https://leetcode.com/problems/reverse-linked-list/
+[0206-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0206-Reverse-Linked-List
 
 [0209]: https://leetcode.com/problems/minimum-size-subarray-sum/
 [0209-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0209-Minimum-Size-Subarray-Sum
@@ -133,6 +198,12 @@ LeetCode Training based on c++
 [0220]: https://leetcode.com/problems/contains-duplicate-iii/
 [0220-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0220-Contains-Duplicate-III
 
+[0234]: https://leetcode.com/problems/palindrome-linked-list/
+[0234-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0234-Palindrome-Linked-List
+
+[0237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
+[0237-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0237-Delete-Node-in-a-Linked-List
+
 [0242]: https://leetcode.com/problems/valid-anagram/
 [0242-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0242-Valid-Anagram
 
@@ -141,6 +212,9 @@ LeetCode Training based on c++
 
 [0290]: https://leetcode.com/problems/word-pattern/
 [0290-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0290-Word-Pattern
+
+[0328]: https://leetcode.com/problems/odd-even-linked-list/
+[0328-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0328-Odd-Even-Linked-List
 
 [0344]: https://leetcode.com/problems/reverse-string/
 [0344-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0344-Reverse-String
@@ -153,6 +227,9 @@ LeetCode Training based on c++
 
 [0438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 [0438-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0438-Find-All-Anagrams-in-a-String
+
+[0445]: https://leetcode.com/problems/add-two-numbers-ii/
+[0445-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0445-Add-Two-Numbers-II
 
 [0447]: https://leetcode.com/problems/number-of-boomerangs/
 [0447-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0447-Number-of-Boomerangs
