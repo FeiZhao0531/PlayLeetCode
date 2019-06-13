@@ -15,7 +15,9 @@ LeetCode Training based on c++
 |[0016] | 3Sum-Closest                                      | Medium    | Two-pointers                  |[0016-Solution]|
 |[0018] | 4Sum                                              | Medium    | Two-pointers                  |[0018-Solution]|
 |[0019] | Remove-Nth-Node-From-End-of-List                  | Medium    | Two pointers                  |[0019-Solution] |
+|[0020] | Valid-Parentheses                                 | Easy      | Stack                         |[0020-Solution] |
 |[0021] | Merge-Two-Sorted-Lists                            | Easy      | Dummy head Node               |[0021-Solution] |
+|[0023] | Merge-k-Sorted-Lists                              | Hard      | priority_queue                |[0023-Solution] |
 |[0024] | Swap-Nodes-in-Pairs                               | Medium    |                               |[0024-Solution] |
 |[0026] | Remove-Duplicates-from-Sorted-Array               | Easy      |                               |[0026-Solution]|
 |[0027] | Remove-Element                                    | Easy      |                               |[0026-Solution]|
@@ -32,15 +34,24 @@ LeetCode Training based on c++
 |[0086] | Partition-List                                    | Medium    | Dummy head node               |[0086-Solution] |
 |[0088] | Merge-Sorted-Array                                | Easy      | Merge-Sort                    |[0088-Solution]|
 |[0092] | Reverse-Linked-List-II                            | Medium    | Dummy head node               |[0092-Solution] |
+|[0094] | Binary-Tree-Inorder-Traversal                     | Medium    | 1.Stack 2.DFS                 |[0094-Solution] |
+|[0102] | Binary-Tree-Level-Order-Traversal                 | Medium    | BFS                           |[0102-Solution] |
+|[0103] | Binary-Tree-Zigzag-Level-Order-Traversal          | Medium    | BFS                           |[0103-Solution] |
+|[0107] | Binary-Tree-Level-Order-Traversal-II              | Easy      | BFS                           |[0107-Solution] |
 |[0118] | Pascals-Triangle                                  | Easy      |                               |[0118-Solution]|
 |[0125] | Valid-Palindrome                                  | Easy      | Two-pointers                  |[0125-Solution]|
+|[0127] | Word-Ladder                                       | Medium    | Graph BFS                     |[0127-Solution] |
 |[0136] | Single-Number                                     | Easy      | 1.Manipulate bit 2.Hash set   |[0136-Solution]|
 |[0143] | Reorder-List                                      | Medium    | Two pointers                  |[0143-Solution] |     
+|[0144] | Binary-Tree-Preorder-Traversal                    | Medium    | 1.Stack 2.DFS                 |[0144-Solution] |
+|[0145] | Binary-Tree-Postorder-Traversal                   | Hard      | 1.Stack 2.DFS                 |[0145-Solution] |
 |[0147] | Insertion-Sort-List                               | Medium    | Dummy head Node Insert sort   |[0147-Solution] |
 |[0148] | Sort-List                                         | Medium    | Two pointers                  |[0148-Solution] |
 |[0149] | Max-Points-on-a-Line                              | Hard      | Hash map                      |[0149-Solution]|
+|[0150] | Evaluate-Reverse-Polish-Notation                  | Medium    | Stack                         |[0150-Solution] |     
 |[0160] | Intersection-of-Two-Linked-Lists                  | Easy      |                               |[0160-Solution] |
 |[0167] | Two-SumII-Input-array-is-sorted                   | Easy      | Two-pointers, Binary-Search   |[0167-Solution]|
+|[0199] | Binary-Tree-Right-Side-View                       | Medium    | BFS                           |[0199-Solution] |
 |[0202] | Happy-Number                                      | Easy      | Hash set                      |[0202-Solution]|
 |[0203] | Remove-Linked-List-Elements                       | Easy      | Dummy head node               |[0203-Solution] |
 |[0205] | Isomorphic-Strings                                | Easy      | Hash map                      |[0205-Solution]|
@@ -53,10 +64,12 @@ LeetCode Training based on c++
 |[0234] | Palindrome-Linked-List                            | Easy      | Two pointers                  |[0234-Solution] |
 |[0237] | Delete-Node-in-a-Linked-List                      | Easy      |                               |[0237-Solution] |
 |[0242] | Valid-Anagram                                     | Easy      | Hash map                      |[0242-Solution]|
+|[0279] | Perfect-Squares                                   | Medium    | BFS                           |[0279-Solution] |
 |[0283] | Move-Zeros                                        | Easy      |                               |[0283-Solution]|
 |[0290] | Word-Pattern                                      | Easy      | Hash map                      |[0290-Solution]|
 |[0328] | Odd-Even-Linked-List                              | Medium    | Partition LinkedList          |[0328-Solution] |
 |[0344] | Reverse-String                                    | Easy      | Two-pointers                  |[0344-Solution]|
+|[0347] | Top-K-Frequent-Elements                           | Medium    | priority_queue                |[0347-Solution] |
 |[0349] | Intersection-of-Two-Arrays                        | Easy      | Hash set                      |[0349-Solution]|
 |[0350] | Intersection-of-Two-Arrays-II                     | Easy      | Hash map                      |[0350-Solution]|
 |[0438] | Find-All-Anagrams-in-a-String                     | Medium    | Sliding-Window, Hash set      |[0438-Solution]|
@@ -92,8 +105,14 @@ LeetCode Training based on c++
 [0019]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [0019-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0019-Remove-Nth-Node-From-End-of-List
 
+[0020]: https://leetcode.com/problems/valid-parentheses/
+[0020-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0020-Valid-Parentheses
+
 [0021]: https://leetcode.com/problems/merge-two-sorted-lists/
 [0021-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0021-Merge-Two-Sorted-Lists
+
+[0023]: https://leetcode.com/problems/merge-k-sorted-lists/
+[0023-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0023-Merge-k-Sorted-Lists
 
 [0024]: https://leetcode.com/problems/swap-nodes-in-pairs/
 [0024-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0024-Swap-Nodes-in-Pairs
@@ -143,18 +162,38 @@ LeetCode Training based on c++
 [0092]: https://leetcode.com/problems/reverse-linked-list-ii/
 [0092-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0092-Reverse-Linked-List-II
 
+[0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+[0094-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0094-Binary-Tree-Inorder-Traversal
+
+[0102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
+[0102-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0102-Binary-Tree-Level-Order-Traversal
+
+[0103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+[0103-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0103-Binary-Tree-Zigzag-Level-Order-Traversal
+
+[0107]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+[0107-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0107-Binary-Tree-Level-Order-Traversal-II
+
 [0118]: https://leetcode.com/problems/pascals-triangle/
 [0118-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0118-Pascals-Triangle
 
 [0125]: https://leetcode.com/problems/valid-palindrome/
 [0125-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0125-Valid-Palindrome
 
+[0127]: https://leetcode.com/problems/word-ladder/description/
+[0127-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0127-Word-Ladder
+
 [0136]: https://leetcode.com/problems/single-number/
 [0136-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0136-Single-Number
 
-
 [0143]: https://leetcode.com/problems/reorder-list/
 [0143-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0143-Reorder-List
+
+[0144]: https://leetcode.com/problems/binary-tree-preorder-traversal/description/
+[0144-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0144-Binary-Tree-Preorder-Traversal
+
+[0145]: https://leetcode.com/problems/binary-tree-postorder-traversal/
+[0145-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0145-Binary-Tree-Postorder-Traversal
 
 [0147]: https://leetcode.com/problems/insertion-sort-list/
 [0147-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0147-Insertion-Sort-List
@@ -165,11 +204,17 @@ LeetCode Training based on c++
 [0149]: https://leetcode.com/problems/max-points-on-a-line/
 [0149-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0149-Max-Points-on-a-Line
 
+[0150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
+[0150-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0150-Evaluate-Reverse-Polish-Notation
+
 [0160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [0160-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0160-Intersection-of-Two-Linked-Lists
 
 [0167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [0167-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0167-Two-SumII-Input-array-is-sorted
+
+[0199]: https://leetcode.com/problems/binary-tree-right-side-view/
+[0199-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0199-Binary-Tree-Right-Side-View
 
 [0202]: https://leetcode.com/problems/happy-number/
 [0202-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0202-Happy-Number
@@ -207,6 +252,9 @@ LeetCode Training based on c++
 [0242]: https://leetcode.com/problems/valid-anagram/
 [0242-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0242-Valid-Anagram
 
+[0279]: https://leetcode.com/problems/perfect-squares/
+[0279-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0279-Perfect-Squares
+
 [0283]: https://leetcode.com/problems/move-zeroes/
 [0283-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0283-Move-Zeros
 
@@ -218,6 +266,9 @@ LeetCode Training based on c++
 
 [0344]: https://leetcode.com/problems/reverse-string/
 [0344-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0344-Reverse-String
+
+[0347]: https://leetcode.com/problems/top-k-frequent-elements/
+[0347-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0347-Top-K-Frequent-Elements
 
 [0349]: https://leetcode.com/problems/intersection-of-two-arrays/
 [0349-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0349-Intersection-of-Two-Arrays
