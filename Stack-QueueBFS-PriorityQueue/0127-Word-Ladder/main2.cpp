@@ -13,7 +13,7 @@ using namespace std;
 
 /// BFS
 /// Using set to store all the words and erase visited word eagerly.
-/// Time Complexity: O(n*n)
+/// Time Complexity: O(n*26*wordLength)
 /// Space Complexity: O(n)
 class Solution {
 public:
