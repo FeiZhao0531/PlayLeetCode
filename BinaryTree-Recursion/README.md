@@ -8,7 +8,6 @@ Binary Tree
 
 | # |  Title  |  Difficulty  |  Method  | _Solution_
 |:-:|:-:|:-:|:-:|:-:|
-
 |[0098] | Validate Binary Search Tree                               | Medium    | BST inorder           |[0098-Solution] |
 |[0100] | Same Tree                                                 | Easy      | DFS                   |[0100-Solution] |
 |[0101] | Symmetric Tree                                            | Easy      | DFS                   |[0101-Solution] |
