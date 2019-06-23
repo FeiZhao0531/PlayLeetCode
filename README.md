@@ -35,12 +35,24 @@ LeetCode Training based on c++
 |[0088] | Merge-Sorted-Array                                | Easy      | Merge-Sort                    |[0088-Solution]|
 |[0092] | Reverse-Linked-List-II                            | Medium    | Dummy head node               |[0092-Solution] |
 |[0094] | Binary-Tree-Inorder-Traversal                     | Medium    | 1.Stack 2.DFS                 |[0094-Solution] |
+|[0098] | Validate Binary Search Tree                               | Medium    | BST inorder           |[0098-Solution] |
+|[0100] | Same Tree                                                 | Easy      | DFS                   |[0100-Solution] |
+|[0101] | Symmetric Tree                                            | Easy      | DFS                   |[0101-Solution] |
 |[0102] | Binary-Tree-Level-Order-Traversal                 | Medium    | BFS                           |[0102-Solution] |
 |[0103] | Binary-Tree-Zigzag-Level-Order-Traversal          | Medium    | BFS                           |[0103-Solution] |
+|[0104] | Maximum Depth of Binary Tree                              | Easy      | DFS                   |[0104-Solution] |
+|[0105] | Construct Binary Tree from Preorder and Inorder Traversal | Medium    | DFS                   |[0105-Solution] |
 |[0107] | Binary-Tree-Level-Order-Traversal-II              | Easy      | BFS                           |[0107-Solution] |
+|[0108] | Convert Sorted Array to Binary Search Tree                | Easy      | DFS                   |[0108-Solution] |
+|[0110] | Balanced Binary Tree                                      | Easy      | DFS                   |[0110-Solution] |
+|[0111] | Minimum Depth of Binary Tree                              | Easy      | DFS                   |[0111-Solution] |
+|[0112] | Path Sum                                                  | Easy      | DFS                   |[0112-Solution] |
+|[0113] | Path Sum II                                               | Medium    | DFS Backtracking      |[0113-Solution] |
 |[0118] | Pascals-Triangle                                  | Easy      |                               |[0118-Solution]|
+|[0124] | Binary Tree Maximum Path Sum                              | Hard      | DFS                   |[0124-Solution] |
 |[0125] | Valid-Palindrome                                  | Easy      | Two-pointers                  |[0125-Solution]|
 |[0127] | Word-Ladder                                       | Medium    | Graph BFS                     |[0127-Solution] |
+|[0129] | Sum Root to Leaf Numbers                                  | Medium    | DFS                   |[0129-Solution] |
 |[0136] | Single-Number                                     | Easy      | 1.Manipulate bit 2.Hash set   |[0136-Solution]|
 |[0143] | Reorder-List                                      | Medium    | Two pointers                  |[0143-Solution] |     
 |[0144] | Binary-Tree-Preorder-Traversal                    | Medium    | 1.Stack 2.DFS                 |[0144-Solution] |
@@ -61,9 +73,15 @@ LeetCode Training based on c++
 |[0217] | Contains-Duplicate                                | Easy      | Hash set                      |[0217-Solution]|
 |[0219] | Contains-Duplicate-II                             | Easy      | Hash set                      |[0219-Solution]|
 |[0220] | Contains-Duplicate-III                            | Medium    | Hash set lower-bound          |[0220-Solution]|
+|[0222] | Count Complete Tree Nodes                                 | Medium    | Binary Search         |[0222-Solution] |
+|[0226] | Invert Binary Tree                                        | Easy      | Recursion             |[0226-Solution] |
+|[0230] | Kth Smallest Element in a BST                             | Medium    | BST inorder           |[0230-Solution] |
 |[0234] | Palindrome-Linked-List                            | Easy      | Two pointers                  |[0234-Solution] |
+|[0235] | Lowest Common Ancestor of a Binary Search Tree            | Easy      | Lowest Common Ancestor|[0235-Solution] |
+|[0236] | Lowest Common Ancestor of a Binary Tree                   | Medium    | Lowest Common Ancestor|[0236-Solution] |
 |[0237] | Delete-Node-in-a-Linked-List                      | Easy      |                               |[0237-Solution] |
 |[0242] | Valid-Anagram                                     | Easy      | Hash map                      |[0242-Solution]|
+|[0257] | Binary Tree Paths                                         | Easy      | DFS string            |[0257-Solution] |
 |[0279] | Perfect-Squares                                   | Medium    | BFS                           |[0279-Solution] |
 |[0283] | Move-Zeros                                        | Easy      |                               |[0283-Solution]|
 |[0290] | Word-Pattern                                      | Easy      | Hash map                      |[0290-Solution]|
@@ -72,11 +90,15 @@ LeetCode Training based on c++
 |[0347] | Top-K-Frequent-Elements                           | Medium    | priority_queue                |[0347-Solution] |
 |[0349] | Intersection-of-Two-Arrays                        | Easy      | Hash set                      |[0349-Solution]|
 |[0350] | Intersection-of-Two-Arrays-II                     | Easy      | Hash map                      |[0350-Solution]|
+|[0404] | Sum of Left Leaves                                        | Easy      | DFS                   |[0404-Solution] |
+|[0437] | Path Sum III                                              | Easy      | DFS                   |[0437-Solution] |
 |[0438] | Find-All-Anagrams-in-a-String                     | Medium    | Sliding-Window, Hash set      |[0438-Solution]|
 |[0445] | Add-Two-Numbers-II                                | Medium    | 1.Reverse LinkedList 2.Stack  |[0445-Solution] |
 |[0447] | Number-of-Boomerangs                              | Easy      | Hash map                      |[0447-Solution]|
+|[0450] | Delete Node in a BST                                      | Medium    | BST                   |[0450-Solution] |
 |[0451] | Sort-Characters-By-Frequency                      | Medium    | Hash map                      |[0451-Solution]|
 |[0454] | 4Sum-II                                           | Medium    | Hash map                      |[0454-Solution]|
+|[0783] | Minimum Distance Between BST Nodes                        | Easy      | BST                   |[0783-Solution] |
 
 
 
@@ -165,23 +187,59 @@ LeetCode Training based on c++
 [0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [0094-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0094-Binary-Tree-Inorder-Traversal
 
+[0098]: https://leetcode.com/problems/validate-binary-search-tree/
+[0098-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0098-Validate-Binary-Search-Tree
+
+[0100]: https://leetcode.com/problems/same-tree/
+[0100-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0100-Same-Tree
+
+[0101]: https://leetcode.com/problems/symmetric-tree/
+[0101-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0101-Symmetric-Tree
+
 [0102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [0102-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0102-Binary-Tree-Level-Order-Traversal
 
 [0103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 [0103-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0103-Binary-Tree-Zigzag-Level-Order-Traversal
 
+[0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[0104-Solution]:https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0104-Maximum-Depth-of-Binary-Tree
+
+[0105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+[0105-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal
+
 [0107]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 [0107-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0107-Binary-Tree-Level-Order-Traversal-II
 
+[0108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+[0108-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0108-Convert-Sorted-Array-to-Binary-Search-Tree
+
+[0110]: https://leetcode.com/problems/balanced-binary-tree/
+[0110-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0110-Balanced-Binary-Tree
+
+[0111]: https://leetcode.com/problems/minimum-depth-of-binary-tree/
+[0111-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0111-Minimum-Depth-of-Binary-Tree
+
+[0112]: https://leetcode.com/problems/path-sum/
+[0112-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0112-Path-Sum
+
+[0113]: https://leetcode.com/problems/path-sum-ii/
+[0113-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0113-Path-Sum-II
+
 [0118]: https://leetcode.com/problems/pascals-triangle/
 [0118-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0118-Pascals-Triangle
+
+[0124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
+[0124-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0124-Binary-Tree-Maximum-Path-Sum
 
 [0125]: https://leetcode.com/problems/valid-palindrome/
 [0125-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0125-Valid-Palindrome
 
 [0127]: https://leetcode.com/problems/word-ladder/description/
 [0127-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0127-Word-Ladder
+
+[0129]: https://leetcode.com/problems/sum-root-to-leaf-numbers/
+[0129-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0129-Sum-Root-to-Leaf-Numbers
 
 [0136]: https://leetcode.com/problems/single-number/
 [0136-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0136-Single-Number
@@ -243,14 +301,32 @@ LeetCode Training based on c++
 [0220]: https://leetcode.com/problems/contains-duplicate-iii/
 [0220-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0220-Contains-Duplicate-III
 
+[0222]: https://leetcode.com/problems/count-complete-tree-nodes/
+[0222-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0222-Count-Complete-Tree-Nodes
+
+[0226]: https://leetcode.com/problems/invert-binary-tree/
+[0226-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0226-Invert-Binary-Tree
+
+[0230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+[0230-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0230-kth-Smallest-Element-in-a-BST
+
 [0234]: https://leetcode.com/problems/palindrome-linked-list/
 [0234-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0234-Palindrome-Linked-List
+
+[0235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+[0235-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree
+
+[0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+[0236-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0236-Lowest-Common-Ancestor-of-a-Binary-Tree
 
 [0237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [0237-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0237-Delete-Node-in-a-Linked-List
 
 [0242]: https://leetcode.com/problems/valid-anagram/
 [0242-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0242-Valid-Anagram
+
+[0257]: https://leetcode.com/problems/binary-tree-paths/
+[0257-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0257-Binary-Tree-Paths
 
 [0279]: https://leetcode.com/problems/perfect-squares/
 [0279-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0279-Perfect-Squares
@@ -276,6 +352,12 @@ LeetCode Training based on c++
 [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [0350-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0350-Intersection-of-Two-Arrays-II
 
+[0404]: https://leetcode.com/problems/sum-of-left-leaves/
+[0404-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0404-Sum-of-Left-Leaves
+
+[0437]: https://leetcode.com/problems/path-sum-iii/
+[0437-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0437-Path-Sum-III
+
 [0438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 [0438-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0438-Find-All-Anagrams-in-a-String
 
@@ -285,8 +367,14 @@ LeetCode Training based on c++
 [0447]: https://leetcode.com/problems/number-of-boomerangs/
 [0447-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0447-Number-of-Boomerangs
 
+[0450]: https://leetcode.com/problems/delete-node-in-a-bst/
+[0450-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0450-Delete-Node-in-a-BST
+
 [0451]: https://leetcode.com/problems/sort-characters-by-frequency/
 [0451-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0451-Sort-Characters-By-Frequency
 
 [0454]: https://leetcode.com/problems/4sum-ii/
 [0454-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0454-4Sum-II
+
+[0783]: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
+[0783-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0783-Minimum-Distance-Between-BST-Nodes
