@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/combination-sum-iii/description/
-/// Author : liuyubobobo
-/// Time   : 2018-03-04
+/// Author : Fei
+/// Time   : Jun-30-2019
 
 #include <iostream>
 #include <vector>

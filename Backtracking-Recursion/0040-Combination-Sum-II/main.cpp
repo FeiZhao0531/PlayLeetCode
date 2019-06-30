@@ -1,6 +1,6 @@
 /// Source : https://leetcode.com/problems/combination-sum-ii/description/
 /// Author : Fei
-/// Time   : Junu-29-2019
+/// Time   : Junu-30-2019
 
 #include <iostream>
 #include <vector>
@@ -20,7 +20,6 @@ public:
         if( candidates.empty() || target < candidates[0])
             return res;
         this->target = target;
-        visited = vector<bool>( candidates.size(), false); // false : Non visited
         vector<int> tmp;
         findCombinationSum2( candidates, 0, 0, tmp);
 
@@ -29,7 +28,6 @@ public:
 private:
     int target;
     vector< vector<int> > res;
-    vector<bool> visited;
 
     void findCombinationSum2( const vector<int>& candidates, int pt, int sum, vector<int>& tmp) {
 
@@ -41,8 +39,7 @@ private:
 
         for( int i=pt; i<candidates.size(); ++i) {
             // cout << "  i = " << i << " newSum = " << sum + candidates[i] <<endl;
-            if( i > 0 && candidates[i] == candidates[i-1] && !visited[i-1])
-                continue;
+            if( i > pt && candidates[i] == candidates[i-1] ) continue;
             if( candidates[i] + sum > target) return;
             tmp.push_back( candidates[i]);
             visited[i] = true;
