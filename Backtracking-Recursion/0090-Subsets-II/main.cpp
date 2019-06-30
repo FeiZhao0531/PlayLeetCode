@@ -28,7 +28,6 @@ public:
     }
 private:
     vector< vector<int> > res;
-    vector<bool> visited;
 
     void findSubsetWithDup( const vector<int>& nums, int pt, vector<int>& tmp) {
 
