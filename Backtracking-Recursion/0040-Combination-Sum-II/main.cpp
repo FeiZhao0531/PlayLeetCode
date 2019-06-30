@@ -42,10 +42,8 @@ private:
             if( i > pt && candidates[i] == candidates[i-1] ) continue;
             if( candidates[i] + sum > target) return;
             tmp.push_back( candidates[i]);
-            visited[i] = true;
             findCombinationSum2( candidates, i+1, sum + candidates[i], tmp);
             tmp.pop_back();
-            visited[i] = false;
         }
         // cout << endl << endl;
     }
