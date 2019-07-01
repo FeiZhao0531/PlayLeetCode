@@ -1,6 +1,7 @@
 /// Source : https://leetcode.com/problems/3sum/
 /// Author : Fei
 /// Time   : May-20-2019
+/// Update #1 : Jul-01-2019
 
 #include <iostream>
 #include <vector>
@@ -46,7 +47,7 @@ private:
     int nextNumIndex( const vector<int>& nums, int curIndex) {
 
         assert( curIndex >= 0 && curIndex < nums.size());
-        for( int i=curIndex; i<nums.size(); ++i)
+        for( int i=curIndex+1; i<nums.size(); ++i)
             if( nums[i] != nums[curIndex])
                 return i;
 
@@ -56,7 +57,7 @@ private:
     int preNumIndex( const vector<int>& nums, int curIndex) {
 
         assert( curIndex >= 0 && curIndex < nums.size());
-        for( int i=curIndex; i>=0; i --)
+        for( int i=curIndex-1; i>=0; i --)
             if( nums[i] != nums[curIndex])
                 return i;
 
