@@ -13,6 +13,7 @@ LeetCode Training based on c++
 |[0011] | Container-With-Most-Water                         | Medium    | Two-pointers                  |[0011-Solution]|
 |[0015] | 3Sum                                              | Medium    | Two-pointers                  |[0015-Solution]|
 |[0016] | 3Sum-Closest                                      | Medium    | Two-pointers                  |[0016-Solution]|
+|[0017] | Letter Combinations of a Phone Number                     | Medium    | Backtracking          |[0017-Solution]|
 |[0018] | 4Sum                                              | Medium    | Two-pointers                  |[0018-Solution]|
 |[0019] | Remove-Nth-Node-From-End-of-List                  | Medium    | Two pointers                  |[0019-Solution] |
 |[0020] | Valid-Parentheses                                 | Easy      | Stack                         |[0020-Solution] |
@@ -23,17 +24,29 @@ LeetCode Training based on c++
 |[0027] | Remove-Element                                    | Easy      |                               |[0026-Solution]|
 |[0033] | Search-in-Rotated-Sorted-Array                    | Medium    | Binary-Search                 |[0033-Solution]|
 |[0034] | Find-First-and-Last-Position-of-Element-in-Sorted-Array | Medium | Binary-Search              |[0034-Solution]|
+|[0037] | Sudoku Solver                                             | Hard      | Backtracking          |[0037-Solution]|
+|[0039] | Combination Sum                                           | Medium    | Backtracking          |[0039-Solution]|
+|[0040] | Combination Sum II                                        | Medium    | Backtracking          |[0040-Solution]|
+|[0046] | Permutations                                              | Medium    | Backtracking          |[0046-Solution]|
+|[0047] | Permutations II                                           | Medium    | Backtracking          |[0047-Solution]|
 |[0049] | Group-Anagrams                                    | Medium    | Hash map                      |[0049-Solution]|
+|[0051] | N-Queens                                                  | Hard      | Backtracking          |[0051-Solution]|
+|[0052] | N-Queens II                                               | Hard      | Backtracking          |[0052-Solution]|
 |[0054] | Spiral-Matrix                                     | Medium    |                               |[0054-Solution]|
 |[0061] | Rotate-List                                       | Medium    | Two pointers                  |[0061-Solution] |
 |[0069] | Sqrt(x)                                           | Easy      | Binary-Search                 |[0069-Solution]|
 |[0075] | Sort-Colors                                       | Medium    |Counting-Sort, 3Ways-quick-Sort|[0075-Solution]|
+|[0077] | Combinations                                              | Medium    | Backtracking          |[0077-Solution]|
+|[0078] | Subsets                                                   | Medium    | Backtracking          |[0078-Solution]|
+|[0079] | Word Search                                               | Medium    | Backtracking          |[0079-Solution]|
 |[0080] | Remove-Duplicates-from-Sorted-Array-II            | Medium    |                               |[0080-Solution]|
 |[0082] | Remove-Duplicates-from-Sorted-List-II             | Medium    | Dummy head Node               |[0082-Solution] |
 |[0083] | Remove-Duplicates-from-Sorted-List                | Easy      |                               |[0083-Solution] |
 |[0086] | Partition-List                                    | Medium    | Dummy head node               |[0086-Solution] |
 |[0088] | Merge-Sorted-Array                                | Easy      | Merge-Sort                    |[0088-Solution]|
+|[0090] | Subsets II                                                | Medium    | Backtracking          |[0090-Solution]|
 |[0092] | Reverse-Linked-List-II                            | Medium    | Dummy head node               |[0092-Solution] |
+|[0093] | Restore IP Addresses                                      | Medium    | Backtracking          |[0093-Solution]|
 |[0094] | Binary-Tree-Inorder-Traversal                     | Medium    | 1.Stack 2.DFS                 |[0094-Solution] |
 |[0098] | Validate Binary Search Tree                               | Medium    | BST inorder           |[0098-Solution] |
 |[0100] | Same Tree                                                 | Easy      | DFS                   |[0100-Solution] |
@@ -53,6 +66,8 @@ LeetCode Training based on c++
 |[0125] | Valid-Palindrome                                  | Easy      | Two-pointers                  |[0125-Solution]|
 |[0127] | Word-Ladder                                       | Medium    | Graph BFS                     |[0127-Solution] |
 |[0129] | Sum Root to Leaf Numbers                                  | Medium    | DFS                   |[0129-Solution] |
+|[0130] | Surrounded Regions                                        | Medium    | Backtracking          |[0130-Solution]|
+|[0131] | Palindrome Partitioning                                   | Medium    | Backtracking          |[0131-Solution]|
 |[0136] | Single-Number                                     | Easy      | 1.Manipulate bit 2.Hash set   |[0136-Solution]|
 |[0143] | Reorder-List                                      | Medium    | Two pointers                  |[0143-Solution] |     
 |[0144] | Binary-Tree-Preorder-Traversal                    | Medium    | 1.Stack 2.DFS                 |[0144-Solution] |
@@ -64,12 +79,14 @@ LeetCode Training based on c++
 |[0160] | Intersection-of-Two-Linked-Lists                  | Easy      |                               |[0160-Solution] |
 |[0167] | Two-SumII-Input-array-is-sorted                   | Easy      | Two-pointers, Binary-Search   |[0167-Solution]|
 |[0199] | Binary-Tree-Right-Side-View                       | Medium    | BFS                           |[0199-Solution] |
+|[0200] | Number of Islands                                         | Medium    | Backtracking          |[0200-Solution]|
 |[0202] | Happy-Number                                      | Easy      | Hash set                      |[0202-Solution]|
 |[0203] | Remove-Linked-List-Elements                       | Easy      | Dummy head node               |[0203-Solution] |
 |[0205] | Isomorphic-Strings                                | Easy      | Hash map                      |[0205-Solution]|
 |[0206] | Reverse-Linked-List                               | Easy      |                               |[0206-Solution] |
 |[0209] | Minimum-Size-Subarray-Sum                         | Medium    | Sliding-Window                |[0209-Solution]|
 |[0215] | Kth-Largest-Element-in-an-Array                   | Medium    | 1-Quick-Sort, 2-Priority-Queue|[0215-Solution-1]|
+|[0216] | Combination Sum III                                       | Medium    | Backtracking          |[0216-Solution]|
 |[0217] | Contains-Duplicate                                | Easy      | Hash set                      |[0217-Solution]|
 |[0219] | Contains-Duplicate-II                             | Easy      | Hash set                      |[0219-Solution]|
 |[0220] | Contains-Duplicate-III                            | Medium    | Hash set lower-bound          |[0220-Solution]|
@@ -91,6 +108,7 @@ LeetCode Training based on c++
 |[0349] | Intersection-of-Two-Arrays                        | Easy      | Hash set                      |[0349-Solution]|
 |[0350] | Intersection-of-Two-Arrays-II                     | Easy      | Hash map                      |[0350-Solution]|
 |[0404] | Sum of Left Leaves                                        | Easy      | DFS                   |[0404-Solution] |
+|[0417] | Pacific Atlantic Water Flow                               | Medium    | Backtracking          |[0417-Solution]|
 |[0437] | Path Sum III                                              | Easy      | DFS                   |[0437-Solution] |
 |[0438] | Find-All-Anagrams-in-a-String                     | Medium    | Sliding-Window, Hash set      |[0438-Solution]|
 |[0445] | Add-Two-Numbers-II                                | Medium    | 1.Reverse LinkedList 2.Stack  |[0445-Solution] |
@@ -120,6 +138,9 @@ LeetCode Training based on c++
 
 [0016]: https://leetcode.com/problems/3sum-closest/
 [0016-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0016-3Sum-Closest
+
+[0017]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+[0017-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Backtracking-Recursion/0017-Letter-Combinations-of-a-Phone-Number/main.cpp
 
 [0018]: https://leetcode.com/problems/4sum/
 [0018-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0018-4Sum
@@ -151,8 +172,29 @@ LeetCode Training based on c++
 [0034]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [0034-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array
 
+[0037]: https://leetcode.com/problems/sudoku-solver/
+[0037-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Backtracking-Recursion/0037-Sudoku-Solver/main.cpp
+
+[0039]: https://leetcode.com/problems/combination-sum/
+[0039-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0039-Combination-Sum/main.cpp
+
+[0040]: https://leetcode.com/problems/combination-sum-ii/
+[0040-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0040-Combination-Sum-II/main.cpp
+
+[0046]: https://leetcode.com/problems/permutations/
+[0046-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0046-Permutation/main.cpp
+
+[0047]: https://leetcode.com/problems/permutations-ii/
+[0047-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0047-Permutations-II/main.cpp
+
 [0049]: https://leetcode.com/problems/group-anagrams/
 [0049-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0049-Group-Anagrams
+
+[0051]: https://leetcode.com/problems/n-queens/
+[0051-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0051-N-Queens/main.cpp
+
+[0052]: https://leetcode.com/problems/n-queens-ii/
+[0052-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0052-N-Queens-II/main.cpp
 
 [0054]: https://leetcode.com/problems/spiral-matrix/
 [0054-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0054-Spiral-Matrix
@@ -165,6 +207,15 @@ LeetCode Training based on c++
 
 [0075]: https://leetcode.com/problems/sort-colors/
 [0075-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0075-Sort-Colors
+
+[0077]: https://leetcode.com/problems/combinations/
+[0077-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0077-Combinations/main.cpp
+
+[0078]: https://leetcode.com/problems/subsets/
+[0078-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0078-Subsets/main.cpp
+
+[0079]: https://leetcode.com/problems/word-search/
+[0079-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0079-Word-Search/main.cpp
 
 [0080]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 [0080-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0080-Remove-Duplicates-from-Sorted-Array-II
@@ -181,8 +232,14 @@ LeetCode Training based on c++
 [0088]: https://leetcode.com/problems/merge-sorted-array/
 [0088-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0088-Merge-Sorted-Arrary
 
+[0090]: https://leetcode.com/problems/subsets-ii/
+[0090-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0090-Subsets-II/main.cpp
+
 [0092]: https://leetcode.com/problems/reverse-linked-list-ii/
 [0092-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0092-Reverse-Linked-List-II
+
+[0093]: https://leetcode.com/problems/restore-ip-addresses/
+[0093-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0093-Restore-IP-Addresses/main.cpp
 
 [0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [0094-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0094-Binary-Tree-Inorder-Traversal
@@ -241,6 +298,12 @@ LeetCode Training based on c++
 [0129]: https://leetcode.com/problems/sum-root-to-leaf-numbers/
 [0129-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0129-Sum-Root-to-Leaf-Numbers
 
+[0130]: https://leetcode.com/problems/surrounded-regions/
+[0130-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0130-Surrounded-Regions/main.cpp
+
+[0131]: https://leetcode.com/problems/palindrome-partitioning/
+[0131-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0131-Palindrome-Partitioning/main.cpp
+
 [0136]: https://leetcode.com/problems/single-number/
 [0136-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0136-Single-Number
 
@@ -274,6 +337,9 @@ LeetCode Training based on c++
 [0199]: https://leetcode.com/problems/binary-tree-right-side-view/
 [0199-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0199-Binary-Tree-Right-Side-View
 
+[0200]: https://leetcode.com/problems/number-of-islands/
+[0200-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0200-Number-of-Islands/main.cpp
+
 [0202]: https://leetcode.com/problems/happy-number/
 [0202-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0202-Happy-Number
 
@@ -291,6 +357,9 @@ LeetCode Training based on c++
 
 [0215]: https://leetcode.com/problems/kth-largest-element-in-an-array
 [0215-Solution-1]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0215-Kth-Largest-Element-in-an-Array
+
+[0216]: https://leetcode.com/problems/combination-sum-iii/
+[0216-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0216-Combination-Sum-III/main.cpp
 
 [0217]: https://leetcode.com/problems/contains-duplicate/
 [0217-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0217-Contains-Duplicate
@@ -354,6 +423,9 @@ LeetCode Training based on c++
 
 [0404]: https://leetcode.com/problems/sum-of-left-leaves/
 [0404-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0404-Sum-of-Left-Leaves
+
+[0417]: https://leetcode.com/problems/pacific-atlantic-water-flow/
+[0417-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0417-Pacific-Atlantic-Water-Flow/main.cpp
 
 [0437]: https://leetcode.com/problems/path-sum-iii/
 [0437-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0437-Path-Sum-III
