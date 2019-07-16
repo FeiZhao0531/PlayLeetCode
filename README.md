@@ -21,7 +21,7 @@ LeetCode Training based on c++
 |[0023] | Merge-k-Sorted-Lists                              | Hard      | priority_queue                |[0023-Solution] |
 |[0024] | Swap-Nodes-in-Pairs                               | Medium    |                               |[0024-Solution] |
 |[0026] | Remove-Duplicates-from-Sorted-Array               | Easy      |                               |[0026-Solution]|
-|[0027] | Remove-Element                                    | Easy      |                               |[0026-Solution]|
+|[0027] | Remove-Element                                    | Easy      |                               |[0027-Solution]|
 |[0033] | Search-in-Rotated-Sorted-Array                    | Medium    | Binary-Search                 |[0033-Solution]|
 |[0034] | Find-First-and-Last-Position-of-Element-in-Sorted-Array | Medium | Binary-Search              |[0034-Solution]|
 |[0037] | Sudoku Solver                                             | Hard      | Backtracking          |[0037-Solution]|
@@ -124,50 +124,50 @@ LeetCode Training based on c++
 [0001-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0001-Two-Sum
 
 [0002]: https://leetcode.com/problems/add-two-numbers/description/
-[0002-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0002-Add-Two-Numbers
+[0002-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0002-Add-Two-Numbers/main.cpp
 
 [0003]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
-[0003-Solution-1]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0003-Longest-Substring-Without-Repeating-Characters
+[0003-Solution-1]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0003-Longest-Substring-Without-Repeating-Characters/main.cpp
 [0003-Solution-2]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0003-Longest-Substring-Without-Repeating-Characters
 
 [0011]: https://leetcode.com/problems/container-with-most-water/
-[0011-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0011-Container-With-Most-Water
+[0011-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0011-Container-With-Most-Water/main.cpp
 
 [0015]: https://leetcode.com/problems/3sum/
 [0015-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0015-3Sum
 
 [0016]: https://leetcode.com/problems/3sum-closest/
-[0016-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0016-3Sum-Closest
+[0016-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0016-3Sum-Closest/main.cpp
 
 [0017]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [0017-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Backtracking-Recursion/0017-Letter-Combinations-of-a-Phone-Number/main.cpp
 
 [0018]: https://leetcode.com/problems/4sum/
-[0018-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0018-4Sum
+[0018-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0018-4Sum/main.cpp
 
 [0019]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-[0019-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0019-Remove-Nth-Node-From-End-of-List
+[0019-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0019-Remove-Nth-Node-From-End-of-List/main.cpp
 
 [0020]: https://leetcode.com/problems/valid-parentheses/
-[0020-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0020-Valid-Parentheses
+[0020-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0020-Valid-Parentheses/main.cpp
 
 [0021]: https://leetcode.com/problems/merge-two-sorted-lists/
-[0021-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0021-Merge-Two-Sorted-Lists
+[0021-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0021-Merge-Two-Sorted-Lists/main.cpp
 
 [0023]: https://leetcode.com/problems/merge-k-sorted-lists/
 [0023-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0023-Merge-k-Sorted-Lists
 
 [0024]: https://leetcode.com/problems/swap-nodes-in-pairs/
-[0024-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0024-Swap-Nodes-in-Pairs
+[0024-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0024-Swap-Nodes-in-Pairs/main.cpp
 
 [0026]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-[0026-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0026-Remove-Duplicates-from-Sorted-Array
+[0026-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0026-Remove-Duplicates-from-Sorted-Array/main-24ms.cpp
 
 [0027]: https://leetcode.com/problems/remove-element/
 [0027-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0027-Remove-Element
 
 [0033]: https://leetcode.com/problems/search-in-rotated-sorted-array/
-[0033-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0033-Search-in-Rotated-Sorted-Array
+[0033-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0033-Search-in-Rotated-Sorted-Array/main.cpp
 
 [0034]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [0034-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array
@@ -188,7 +188,7 @@ LeetCode Training based on c++
 [0047-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0047-Permutations-II/main.cpp
 
 [0049]: https://leetcode.com/problems/group-anagrams/
-[0049-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0049-Group-Anagrams
+[0049-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0049-Group-Anagrams/main.cpp
 
 [0051]: https://leetcode.com/problems/n-queens/
 [0051-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0051-N-Queens/main.cpp
@@ -197,13 +197,13 @@ LeetCode Training based on c++
 [0052-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0052-N-Queens-II/main.cpp
 
 [0054]: https://leetcode.com/problems/spiral-matrix/
-[0054-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0054-Spiral-Matrix
+[0054-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0054-Spiral-Matrix/main.cpp
 
 [0061]: https://leetcode.com/problems/rotate-list/
-[0061-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0061-Rotate-List
+[0061-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0061-Rotate-List/main.cpp
 
 [0069]: https://leetcode.com/problems/sqrtx/
-[0069-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0069-Sqrt(x)
+[0069-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0069-Sqrt(x)/main.cpp
 
 [0075]: https://leetcode.com/problems/sort-colors/
 [0075-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0075-Sort-Colors
@@ -218,19 +218,19 @@ LeetCode Training based on c++
 [0079-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0079-Word-Search/main.cpp
 
 [0080]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
-[0080-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0080-Remove-Duplicates-from-Sorted-Array-II
+[0080-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0080-Remove-Duplicates-from-Sorted-Array-II/main-12ms.cpp
 
 [0082]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
-[0082-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0082-Remove-Duplicates-from-Sorted-List-II
+[0082-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0082-Remove-Duplicates-from-Sorted-List-II/main.cpp
 
 [0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-[0083-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0083-Remove-Duplicates-from-Sorted-List
+[0083-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0083-Remove-Duplicates-from-Sorted-List/main.cpp
 
 [0086]: https://leetcode.com/problems/partition-list/
-[0086-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0086-Partition-List
+[0086-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0086-Partition-List/main.cpp
 
 [0088]: https://leetcode.com/problems/merge-sorted-array/
-[0088-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0088-Merge-Sorted-Arrary
+[0088-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0088-Merge-Sorted-Arrary/main-4ms.cpp
 
 [0090]: https://leetcode.com/problems/subsets-ii/
 [0090-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0090-Subsets-II/main.cpp
@@ -245,13 +245,13 @@ LeetCode Training based on c++
 [0094-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0094-Binary-Tree-Inorder-Traversal
 
 [0098]: https://leetcode.com/problems/validate-binary-search-tree/
-[0098-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0098-Validate-Binary-Search-Tree
+[0098-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0098-Validate-Binary-Search-Tree/main.cpp
 
 [0100]: https://leetcode.com/problems/same-tree/
-[0100-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0100-Same-Tree
+[0100-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0100-Same-Tree/main.cpp
 
 [0101]: https://leetcode.com/problems/symmetric-tree/
-[0101-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0101-Symmetric-Tree
+[0101-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0101-Symmetric-Tree/main.cpp
 
 [0102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [0102-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0102-Binary-Tree-Level-Order-Traversal
@@ -263,31 +263,31 @@ LeetCode Training based on c++
 [0104-Solution]:https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0104-Maximum-Depth-of-Binary-Tree
 
 [0105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-[0105-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal
+[0105-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/main.cpp
 
 [0107]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 [0107-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0107-Binary-Tree-Level-Order-Traversal-II
 
 [0108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
-[0108-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0108-Convert-Sorted-Array-to-Binary-Search-Tree
+[0108-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0108-Convert-Sorted-Array-to-Binary-Search-Tree/main.cpp
 
 [0110]: https://leetcode.com/problems/balanced-binary-tree/
 [0110-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0110-Balanced-Binary-Tree
 
 [0111]: https://leetcode.com/problems/minimum-depth-of-binary-tree/
-[0111-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0111-Minimum-Depth-of-Binary-Tree
+[0111-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0111-Minimum-Depth-of-Binary-Tree/main.cpp
 
 [0112]: https://leetcode.com/problems/path-sum/
 [0112-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0112-Path-Sum
 
 [0113]: https://leetcode.com/problems/path-sum-ii/
-[0113-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0113-Path-Sum-II
+[0113-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0113-Path-Sum-II/main.cpp
 
 [0118]: https://leetcode.com/problems/pascals-triangle/
-[0118-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0118-Pascals-Triangle
+[0118-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0118-Pascals-Triangle/main.cpp
 
 [0124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
-[0124-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0124-Binary-Tree-Maximum-Path-Sum
+[0124-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0124-Binary-Tree-Maximum-Path-Sum/main.cpp
 
 [0125]: https://leetcode.com/problems/valid-palindrome/
 [0125-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0125-Valid-Palindrome
@@ -296,7 +296,7 @@ LeetCode Training based on c++
 [0127-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0127-Word-Ladder
 
 [0129]: https://leetcode.com/problems/sum-root-to-leaf-numbers/
-[0129-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0129-Sum-Root-to-Leaf-Numbers
+[0129-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0129-Sum-Root-to-Leaf-Numbers/main.cpp
 
 [0130]: https://leetcode.com/problems/surrounded-regions/
 [0130-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0130-Surrounded-Regions/main.cpp
@@ -308,7 +308,7 @@ LeetCode Training based on c++
 [0136-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0136-Single-Number
 
 [0143]: https://leetcode.com/problems/reorder-list/
-[0143-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0143-Reorder-List
+[0143-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0143-Reorder-List/main.cpp
 
 [0144]: https://leetcode.com/problems/binary-tree-preorder-traversal/description/
 [0144-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0144-Binary-Tree-Preorder-Traversal
@@ -317,19 +317,19 @@ LeetCode Training based on c++
 [0145-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0145-Binary-Tree-Postorder-Traversal
 
 [0147]: https://leetcode.com/problems/insertion-sort-list/
-[0147-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0147-Insertion-Sort-List
+[0147-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0147-Insertion-Sort-List/main.cpp
 
 [0148]: https://leetcode.com/problems/sort-list/
-[0148-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0148-Sort-List
+[0148-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0148-Sort-List/main.cpp
 
 [0149]: https://leetcode.com/problems/max-points-on-a-line/
-[0149-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0149-Max-Points-on-a-Line
+[0149-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0149-Max-Points-on-a-Line/main.cpp
 
 [0150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
-[0150-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0150-Evaluate-Reverse-Polish-Notation
+[0150-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0150-Evaluate-Reverse-Polish-Notation/main.cpp
 
 [0160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
-[0160-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0160-Intersection-of-Two-Linked-Lists
+[0160-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0160-Intersection-of-Two-Linked-Lists/main.cpp
 
 [0167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [0167-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0167-Two-SumII-Input-array-is-sorted
@@ -341,19 +341,19 @@ LeetCode Training based on c++
 [0200-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0200-Number-of-Islands/main.cpp
 
 [0202]: https://leetcode.com/problems/happy-number/
-[0202-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0202-Happy-Number
+[0202-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0202-Happy-Number/main.cpp
 
 [0203]: https://leetcode.com/problems/remove-linked-list-elements/
-[0203-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0203-Remove-Linked-List-Elements
+[0203-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0203-Remove-Linked-List-Elements/main.cpp
 
 [0205]: https://leetcode.com/problems/isomorphic-strings/
-[0205-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0205-Isomorphic-Strings
+[0205-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0205-Isomorphic-Strings/main.cpp
 
 [0206]: https://leetcode.com/problems/reverse-linked-list/
 [0206-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0206-Reverse-Linked-List
 
 [0209]: https://leetcode.com/problems/minimum-size-subarray-sum/
-[0209-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0209-Minimum-Size-Subarray-Sum
+[0209-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0209-Minimum-Size-Subarray-Sum/main.cpp
 
 [0215]: https://leetcode.com/problems/kth-largest-element-in-an-array
 [0215-Solution-1]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0215-Kth-Largest-Element-in-an-Array
@@ -365,10 +365,10 @@ LeetCode Training based on c++
 [0217-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0217-Contains-Duplicate
 
 [0219]: https://leetcode.com/problems/contains-duplicate-ii/
-[0219-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0219-Contains-Duplicate-II
+[0219-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0219-Contains-Duplicate-II/main.cpp
 
 [0220]: https://leetcode.com/problems/contains-duplicate-iii/
-[0220-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0220-Contains-Duplicate-III
+[0220-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0220-Contains-Duplicate-III/main.cpp
 
 [0222]: https://leetcode.com/problems/count-complete-tree-nodes/
 [0222-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0222-Count-Complete-Tree-Nodes
@@ -377,25 +377,25 @@ LeetCode Training based on c++
 [0226-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0226-Invert-Binary-Tree
 
 [0230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-[0230-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0230-kth-Smallest-Element-in-a-BST
+[0230-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0230-kth-Smallest-Element-in-a-BST/main.cpp
 
 [0234]: https://leetcode.com/problems/palindrome-linked-list/
-[0234-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0234-Palindrome-Linked-List
+[0234-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0234-Palindrome-Linked-List/main.cpp
 
 [0235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-[0235-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree
+[0235-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/main.cpp
 
 [0236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
-[0236-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0236-Lowest-Common-Ancestor-of-a-Binary-Tree
+[0236-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0236-Lowest-Common-Ancestor-of-a-Binary-Tree/main.cpp
 
 [0237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
-[0237-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0237-Delete-Node-in-a-Linked-List
+[0237-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0237-Delete-Node-in-a-Linked-List/main.cpp
 
 [0242]: https://leetcode.com/problems/valid-anagram/
-[0242-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0242-Valid-Anagram
+[0242-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0242-Valid-Anagram/main.cpp
 
 [0257]: https://leetcode.com/problems/binary-tree-paths/
-[0257-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0257-Binary-Tree-Paths
+[0257-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0257-Binary-Tree-Paths/main.cpp
 
 [0279]: https://leetcode.com/problems/perfect-squares/
 [0279-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0279-Perfect-Squares
@@ -404,22 +404,22 @@ LeetCode Training based on c++
 [0283-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0283-Move-Zeros
 
 [0290]: https://leetcode.com/problems/word-pattern/
-[0290-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0290-Word-Pattern
+[0290-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0290-Word-Pattern/main.cpp
 
 [0328]: https://leetcode.com/problems/odd-even-linked-list/
-[0328-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0328-Odd-Even-Linked-List
+[0328-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0328-Odd-Even-Linked-List/main.cpp
 
 [0344]: https://leetcode.com/problems/reverse-string/
-[0344-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0344-Reverse-String
+[0344-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0344-Reverse-String/twoPointers.cpp
 
 [0347]: https://leetcode.com/problems/top-k-frequent-elements/
 [0347-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0347-Top-K-Frequent-Elements
 
 [0349]: https://leetcode.com/problems/intersection-of-two-arrays/
-[0349-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0349-Intersection-of-Two-Arrays
+[0349-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0349-Intersection-of-Two-Arrays/main.cpp
 
 [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
-[0350-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0350-Intersection-of-Two-Arrays-II
+[0350-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0350-Intersection-of-Two-Arrays-II/main.cpp
 
 [0404]: https://leetcode.com/problems/sum-of-left-leaves/
 [0404-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0404-Sum-of-Left-Leaves
@@ -428,25 +428,25 @@ LeetCode Training based on c++
 [0417-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/Backtracking-Recursion/0417-Pacific-Atlantic-Water-Flow/main.cpp
 
 [0437]: https://leetcode.com/problems/path-sum-iii/
-[0437-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0437-Path-Sum-III
+[0437-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0437-Path-Sum-III/main.cpp
 
 [0438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
-[0438-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0438-Find-All-Anagrams-in-a-String
+[0438-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0438-Find-All-Anagrams-in-a-String/main.cpp
 
 [0445]: https://leetcode.com/problems/add-two-numbers-ii/
 [0445-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LinkedList/0445-Add-Two-Numbers-II
 
 [0447]: https://leetcode.com/problems/number-of-boomerangs/
-[0447-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0447-Number-of-Boomerangs
+[0447-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0447-Number-of-Boomerangs/main.cpp
 
 [0450]: https://leetcode.com/problems/delete-node-in-a-bst/
-[0450-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0450-Delete-Node-in-a-BST
+[0450-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0450-Delete-Node-in-a-BST/main.cpp
 
 [0451]: https://leetcode.com/problems/sort-characters-by-frequency/
-[0451-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0451-Sort-Characters-By-Frequency
+[0451-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0451-Sort-Characters-By-Frequency/main.cpp
 
 [0454]: https://leetcode.com/problems/4sum-ii/
-[0454-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0454-4Sum-II
+[0454-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/LookupTable/0454-4Sum-II/main.cpp
 
 [0783]: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
-[0783-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0783-Minimum-Distance-Between-BST-Nodes
+[0783-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0783-Minimum-Distance-Between-BST-Nodes/main.cpp
