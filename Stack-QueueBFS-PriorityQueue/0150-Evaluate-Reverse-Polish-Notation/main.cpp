@@ -1,6 +1,7 @@
-/// Source : https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
-/// Author : Fei
-/// Time   : Jun-09-2019
+/// Source  : https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
+/// Author  : Fei
+/// Time    : Jun-09-2019
+/// Revision: Jul-17-2019 switch default
 
 #include <iostream>
 #include <stack>
@@ -36,7 +37,7 @@ public:
                         stk.push( b / a);
                         break;
                     default:
-                        return false;
+                        break;
                 }
             }
             else
