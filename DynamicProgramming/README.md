@@ -97,12 +97,12 @@ Backtracking-Recursion
 --------------------------
 
 ## LeetCode上和背包问题相关的题目有：
-*  \322. [Coin Change](https://leetcode.com/problems/coin-change/)
-*  \377. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
-*  \416. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
-*  \474. [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
-*  \139. [Word Break](https://leetcode.com/problems/word-break/)
-*  \494. [Target Sum](https://leetcode.com/problems/target-sum/)
+*  [322]. [Coin Change](https://leetcode.com/problems/coin-change/)
+*  [377]. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+*  [416]. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+*  [474]. [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+*  [139]. [Word Break](https://leetcode.com/problems/word-break/)
+*  [494]. [Target Sum](https://leetcode.com/problems/target-sum/)
 
 ## 对各个题目分析
 ### 322. Coin Change
