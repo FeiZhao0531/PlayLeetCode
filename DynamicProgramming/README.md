@@ -3,8 +3,8 @@ LeetCode Training based on c++
 Backtracking-Recursion
 
 ## Tips: 
-* Click the `***Number***`( # ) to the Questions
-* Click the `***Solution***`([00xx-Solution]) to the Solutions
+* Click the ***`Number`***( # ) to the Questions
+* Click the ***`Solution`***([00xx-Solution]) to the Solutions
 
 | # |  Title  |  Difficulty  |  Method  | _Solution_
 |:-:|:-:|:-:|:-:|:-:|
@@ -94,7 +94,7 @@ Backtracking-Recursion
 背包问题(Knapsack problem)是动态规划的一个经典问题，属于一种组合优化的NP完全问题。
 问题可以描述为：给定一组物品(` 编号 0 ~ n-1 `)，每种物品都有自己的重量` w[i] `和价格`v[i] `，在限定的总重量( `总重量的限制 C ` )内，我们如何选择，才能使得物品的总价格最高。问题的名称来源于如何选择最合适的物品放置于给定背包中。[[1]](https://baike.baidu.com/item/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/2416931?fr=aladdin)
 
-
+--------------------------
 
 ## LeetCode上和背包问题相关的题目有：
 *  322. [Coin Change](https://leetcode.com/problems/coin-change/)
