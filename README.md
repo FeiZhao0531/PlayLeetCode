@@ -125,7 +125,7 @@ LeetCode Training based on c++
 |[0349] | Intersection-of-Two-Arrays                        | Easy      | Hash set                      |[0349-Solution]|
 |[0350] | Intersection-of-Two-Arrays-II                     | Easy      | Hash map                      |[0350-Solution]|
 |[0376] | Wiggle-Subsequence                                                    | Medium    | DP          |[0376-Solution]|
-|[0377] | Combination-Sum-IV                                                    | Medium    | DFS         |[0377-Solution]|
+|[0377] | Combination-Sum-IV                                                    | Medium    | DP         |[0377-Solution]|
 |[0404] | Sum of Left Leaves                                        | Easy      | DFS                   |[0404-Solution] |
 |[0416] | Partition-Equal-Subset-Sum                                            | Medium    | DP          |[0416-Solution]|
 |[0417] | Pacific Atlantic Water Flow                               | Medium    | Backtracking          |[0417-Solution]|
