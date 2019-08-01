@@ -422,7 +422,6 @@ LeetCode Training based on c++
 
 [0279]: https://leetcode.com/problems/perfect-squares/
 [0279-Solution-1]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0279-Perfect-Squares
-[0279-Solution-2]: 
 
 [0283]: https://leetcode.com/problems/move-zeroes/
 [0283-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0283-Move-Zeros
