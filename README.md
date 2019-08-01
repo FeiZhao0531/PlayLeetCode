@@ -34,7 +34,11 @@ LeetCode Training based on c++
 |[0052] | N-Queens II                                               | Hard      | Backtracking          |[0052-Solution]|
 |[0054] | Spiral-Matrix                                     | Medium    |                               |[0054-Solution]|
 |[0061] | Rotate-List                                       | Medium    | Two pointers                  |[0061-Solution] |
+|[0062] | Unique-Paths                                                          | Medium    | DP          |[0062-Solution]|
+|[0063] | Unique-Paths-II                                                       | Medium    | DP          |[0063-Solution]|
+|[0064] | Minimum-Path-Sum                                                      | Medium    | DP          |[0064-Solution]|
 |[0069] | Sqrt(x)                                           | Easy      | Binary-Search                 |[0069-Solution]|
+|[0070] | Climbing-Stairs                                                       | Easy      | DP          |[0070-Solution]|
 |[0075] | Sort-Colors                                       | Medium    |Counting-Sort, 3Ways-quick-Sort|[0075-Solution]|
 |[0077] | Combinations                                              | Medium    | Backtracking          |[0077-Solution]|
 |[0078] | Subsets                                                   | Medium    | Backtracking          |[0078-Solution]|
@@ -45,6 +49,7 @@ LeetCode Training based on c++
 |[0086] | Partition-List                                    | Medium    | Dummy head node               |[0086-Solution] |
 |[0088] | Merge-Sorted-Array                                | Easy      | Merge-Sort                    |[0088-Solution]|
 |[0090] | Subsets II                                                | Medium    | Backtracking          |[0090-Solution]|
+|[0091] | Decode-Ways                                                           | Medium    | DP          |[0091-Solution]|
 |[0092] | Reverse-Linked-List-II                            | Medium    | Dummy head node               |[0092-Solution] |
 |[0093] | Restore IP Addresses                                      | Medium    | Backtracking          |[0093-Solution]|
 |[0094] | Binary-Tree-Inorder-Traversal                     | Medium    | 1.Stack 2.DFS                 |[0094-Solution] |
@@ -62,6 +67,10 @@ LeetCode Training based on c++
 |[0112] | Path Sum                                                  | Easy      | DFS                   |[0112-Solution] |
 |[0113] | Path Sum II                                               | Medium    | DFS Backtracking      |[0113-Solution] |
 |[0118] | Pascals-Triangle                                  | Easy      |                               |[0118-Solution]|
+|[0120] | Triangle                                                              | Medium    | DP          |[0120-Solution]|
+|[0121] | Best-Time-to-Buy-and-Sell-Stock                                       | Easy      | DP          |[0121-Solution]|
+|[0122] | Best-Time-to-Buy-and-Sell-Stock-II                                    | Easy      | DP          |[0122-Solution]|
+|[0123] | Best-Time-to-Buy-and-Sell-Stock-III                                   | Hard      | DP          |[0123-Solution]|
 |[0124] | Binary Tree Maximum Path Sum                              | Hard      | DFS                   |[0124-Solution] |
 |[0125] | Valid-Palindrome                                  | Easy      | Two-pointers                  |[0125-Solution]|
 |[0127] | Word-Ladder                                       | Medium    | Graph BFS                     |[0127-Solution] |
@@ -69,6 +78,7 @@ LeetCode Training based on c++
 |[0130] | Surrounded Regions                                        | Medium    | Backtracking          |[0130-Solution]|
 |[0131] | Palindrome Partitioning                                   | Medium    | Backtracking          |[0131-Solution]|
 |[0136] | Single-Number                                     | Easy      | 1.Manipulate bit 2.Hash set   |[0136-Solution]|
+|[0139] | Word-Break                                                            | Medium    | DP          |[0139-Solution]|
 |[0143] | Reorder-List                                      | Medium    | Two pointers                  |[0143-Solution] |     
 |[0144] | Binary-Tree-Preorder-Traversal                    | Medium    | 1.Stack 2.DFS                 |[0144-Solution] |
 |[0145] | Binary-Tree-Postorder-Traversal                   | Hard      | 1.Stack 2.DFS                 |[0145-Solution] |
@@ -78,6 +88,8 @@ LeetCode Training based on c++
 |[0150] | Evaluate-Reverse-Polish-Notation                  | Medium    | Stack                         |[0150-Solution] |     
 |[0160] | Intersection-of-Two-Linked-Lists                  | Easy      |                               |[0160-Solution] |
 |[0167] | Two-SumII-Input-array-is-sorted                   | Easy      | Two-pointers, Binary-Search   |[0167-Solution]|
+|[0188] | Best-Time-to-Buy-and-Sell-Stock-IV                                    | Hard      | DP          |[0188-Solution]|
+|[0198] | House-Robber                                                          | Easy      | DP          |[0198-Solution]|
 |[0199] | Binary-Tree-Right-Side-View                       | Medium    | BFS                           |[0199-Solution] |
 |[0200] | Number of Islands                                         | Medium    | Backtracking          |[0200-Solution]|
 |[0202] | Happy-Number                                      | Easy      | Hash set                      |[0202-Solution]|
@@ -85,6 +97,7 @@ LeetCode Training based on c++
 |[0205] | Isomorphic-Strings                                | Easy      | Hash map                      |[0205-Solution]|
 |[0206] | Reverse-Linked-List                               | Easy      |                               |[0206-Solution] |
 |[0209] | Minimum-Size-Subarray-Sum                         | Medium    | Sliding-Window                |[0209-Solution]|
+|[0213] | House-Robber-II                                                       | Medium    | DP          |[0213-Solution]|
 |[0215] | Kth-Largest-Element-in-an-Array                   | Medium    | 1-Quick-Sort, 2-Priority-Queue|[0215-Solution-1]|
 |[0216] | Combination Sum III                                       | Medium    | Backtracking          |[0216-Solution]|
 |[0217] | Contains-Duplicate                                | Easy      | Hash set                      |[0217-Solution]|
@@ -99,15 +112,22 @@ LeetCode Training based on c++
 |[0237] | Delete-Node-in-a-Linked-List                      | Easy      |                               |[0237-Solution] |
 |[0242] | Valid-Anagram                                     | Easy      | Hash map                      |[0242-Solution]|
 |[0257] | Binary Tree Paths                                         | Easy      | DFS string            |[0257-Solution] |
-|[0279] | Perfect-Squares                                   | Medium    | BFS                           |[0279-Solution] |
+|[0279] | Perfect-Squares                                   | Medium    | 1.BFS 2.DP                    |[0279-Solution-1] [0279-Solution-2]|
 |[0283] | Move-Zeros                                        | Easy      |                               |[0283-Solution]|
 |[0290] | Word-Pattern                                      | Easy      | Hash map                      |[0290-Solution]|
+|[0300] | Longest-Increasing-Subsequence                                        | Medium    | DP          |[0300-Solution]|
+|[0309] | Best-Time-to-Buy-and-Sell-Stock-with-Cooldown                         | Medium    | DP          |[0309-Solution]|
+|[0322] | Coin-Change                                                           | Medium    | DP          |[0322-Solution]|
 |[0328] | Odd-Even-Linked-List                              | Medium    | Partition LinkedList          |[0328-Solution] |
+|[0343] | Integer-Break                                                         | Medium    | DP          |[0343-Solution]|
 |[0344] | Reverse-String                                    | Easy      | Two-pointers                  |[0344-Solution]|
 |[0347] | Top-K-Frequent-Elements                           | Medium    | priority_queue                |[0347-Solution] |
 |[0349] | Intersection-of-Two-Arrays                        | Easy      | Hash set                      |[0349-Solution]|
 |[0350] | Intersection-of-Two-Arrays-II                     | Easy      | Hash map                      |[0350-Solution]|
+|[0376] | Wiggle-Subsequence                                                    | Medium    | DP          |[0376-Solution]|
+|[0377] | Combination-Sum-IV                                                    | Medium    | DFS         |[0377-Solution]|
 |[0404] | Sum of Left Leaves                                        | Easy      | DFS                   |[0404-Solution] |
+|[0416] | Partition-Equal-Subset-Sum                                            | Medium    | DP          |[0416-Solution]|
 |[0417] | Pacific Atlantic Water Flow                               | Medium    | Backtracking          |[0417-Solution]|
 |[0437] | Path Sum III                                              | Easy      | DFS                   |[0437-Solution] |
 |[0438] | Find-All-Anagrams-in-a-String                     | Medium    | Sliding-Window, Hash set      |[0438-Solution]|
@@ -116,6 +136,9 @@ LeetCode Training based on c++
 |[0450] | Delete Node in a BST                                      | Medium    | BST                   |[0450-Solution] |
 |[0451] | Sort-Characters-By-Frequency                      | Medium    | Hash map                      |[0451-Solution]|
 |[0454] | 4Sum-II                                           | Medium    | Hash map                      |[0454-Solution]|
+|[0474] | Ones-and-Zeroes                                                       | Medium    | DP          |[0474-Solution]|
+|[0494] | Target-Sum                                                            | Medium    | DP          |[0494-Solution]|
+|[0714] | Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee                  | Medium    | DP          |[0714-Solution]|
 |[0783] | Minimum Distance Between BST Nodes                        | Easy      | BST                   |[0783-Solution] |
 
 
@@ -398,7 +421,8 @@ LeetCode Training based on c++
 [0257-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0257-Binary-Tree-Paths/main.cpp
 
 [0279]: https://leetcode.com/problems/perfect-squares/
-[0279-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0279-Perfect-Squares
+[0279-Solution-1]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Stack-QueueBFS-PriorityQueue/0279-Perfect-Squares
+[0279-Solution-2]: 
 
 [0283]: https://leetcode.com/problems/move-zeroes/
 [0283-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/Array-vector/0283-Move-Zeros
@@ -450,3 +474,53 @@ LeetCode Training based on c++
 
 [0783]: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 [0783-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/BinaryTree-Recursion/0783-Minimum-Distance-Between-BST-Nodes/main.cpp
+
+[0062]: https://leetcode.com/problems/unique-paths/
+[0063]: https://leetcode.com/problems/unique-paths-ii/
+[0064]: https://leetcode.com/problems/minimum-path-sum/
+[0070]: https://leetcode.com/problems/climbing-stairs/
+[0091]: https://leetcode.com/problems/decode-ways/
+[0120]: https://leetcode.com/problems/triangle/
+[0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[0122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+[0123]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+[0139]: https://leetcode.com/problems/word-break/
+[0188]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+[0198]: https://leetcode.com/problems/house-robber/
+[0213]: https://leetcode.com/problems/house-robber-ii/
+[0279]: https://leetcode.com/problems/perfect-squares/
+[0300]: https://leetcode.com/problems/longest-increasing-subsequence/
+[0309]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+[0322]: https://leetcode.com/problems/coin-change/
+[0343]: https://leetcode.com/problems/integer-break/
+[0376]: https://leetcode.com/problems/wiggle-subsequence/
+[0377]: https://leetcode.com/problems/combination-sum-iv/    
+[0416]: https://leetcode.com/problems/partition-equal-subset-sum/
+[0474]: https://leetcode.com/problems/ones-and-zeroes/
+[0494]: https://leetcode.com/problems/target-sum/
+[0714]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+
+[0062-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/DynamicProgramming/0062-Unique-Paths/main.cpp
+[0063-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/DynamicProgramming/0063-Unique-Paths-II/main.cpp
+[0064-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/DynamicProgramming/0064-Minimum-Path-Sum/main.cpp
+[0070-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0070-Climbing-Stairs
+[0091-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0091-Decode-Ways
+[0120-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/DynamicProgramming/0120-Triangle/main.cpp
+[0121-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0121-Best-Time-to-Buy-and-Sell-Stock/main.cpp
+[0122-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0122-Best-Time-to-Buy-and-Sell-Stock-II/main.cpp
+[0123-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0123-Best-Time-to-Buy-and-Sell-Stock-III/main.cpp
+[0139-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0139-Word-Break
+[0188-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0188-Best-Time-to-Buy-and-Sell-Stock-IV/main.cpp
+[0198-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0198-House-Robber
+[0213-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0213-House-Robber-II/main.cpp
+[0279-Solution-2]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0279-Perfect-Squares
+[0300-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/DynamicProgramming/0300-Longest-Increasing-Subsequence/DP-36ms.cpp
+[0309-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/DynamicProgramming/0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/main.cpp
+[0322-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/DynamicProgramming/0322-Coin-Change/DP.cpp
+[0343-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0343-Integer-Break
+[0376-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0376-Wiggle-Subsequence
+[0377-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0377-Combination-Sum-IV  
+[0416-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0416-Partition-Equal-Subset-Sum
+[0474-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0474-Ones-and-Zeroes
+[0494-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0494-Target-Sum
+[0714-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/DynamicProgramming/0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee/main.cpp
