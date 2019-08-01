@@ -27,7 +27,7 @@ Backtracking-Recursion
 |[0322] | Coin-Change                                                           | Medium    | DP          |[0322-Solution]|
 |[0343] | Integer-Break                                                         | Medium    | DP          |[0343-Solution]|
 |[0376] | Wiggle-Subsequence                                                    | Medium    | DP          |[0376-Solution]|
-|[0377] | Combination-Sum-IV                                                    | Medium    | DFS         |[0377-Solution]|
+|[0377] | Combination-Sum-IV                                                    | Medium    | DP         |[0377-Solution]|
 |[0416] | Partition-Equal-Subset-Sum                                            | Medium    | DP          |[0416-Solution]|
 |[0474] | Ones-and-Zeroes                                                       | Medium    | DP          |[0474-Solution]|
 |[0494] | Target-Sum                                                            | Medium    | DP          |[0494-Solution]|
