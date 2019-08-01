@@ -3,8 +3,8 @@ LeetCode Training based on c++
 Backtracking-Recursion
 
 ## Tips: 
-* Click the #(_Number_) to the Questions
-* Click the _Solution_ to the Solutions
+* Click the `***Number***`( # ) to the Questions
+* Click the `***Solution***`([00xx-Solution]) to the Solutions
 
 | # |  Title  |  Difficulty  |  Method  | _Solution_
 |:-:|:-:|:-:|:-:|:-:|
@@ -97,12 +97,12 @@ Backtracking-Recursion
 
 
 ## LeetCode上和背包问题相关的题目有：
-* 322. [Coin Change](https://leetcode.com/problems/coin-change/)
-* 377. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
-* 416. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
-* 474. [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
-* 139. [Word Break](https://leetcode.com/problems/word-break/)
-* 494. [Target Sum](https://leetcode.com/problems/target-sum/)
+*  322. [Coin Change](https://leetcode.com/problems/coin-change/)
+*  377. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+*  416. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+*  474. [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+*  139. [Word Break](https://leetcode.com/problems/word-break/)
+*  494. [Target Sum](https://leetcode.com/problems/target-sum/)
 
 ## 对各个题目分析
 ### 322. Coin Change
@@ -202,5 +202,5 @@ target = 4
 分析：第一反应是用回溯法来解决这个问题，递归遍历所有的可能组合，检查最后是否等于给定的要求的目标数S。
 在递归求解的过程中可能会有很多的重复子问题，因此自然想到加上记忆化搜索来减小计算量。
 
-首先，记忆化搜索的实现可以用TreeMap-map<pair<int,int>, int>，其中涉及到的3个量分别表示使用的nums数组中的前几个数、通过+ -组合求出的和、到当前的方法数，这种方法的使适用性最广，而且进一步可以将所有的组合具体形式求出。
-另一方面，由于问题明确给出了数据规模，我们可以用vector<vector<int>> memo来代替TreeMap以获得更优的时间复杂度。memo[i][j]表示的意义即为当使用了前i个nums的数，组成的和为j的可能的组合数量。需要指出的是，由于nums排列求和之后可能是负数，需要在使用memo时将数组索引统一加上1000。
+首先，记忆化搜索的实现可以用```TreeMap-map<pair<int,int>, int>```，其中涉及到的3个量分别表示使用的nums数组中的前几个数、通过+ -组合求出的和、到当前的方法数，这种方法的使适用性最广，而且进一步可以将所有的组合具体形式求出。
+另一方面，由于问题明确给出了数据规模，我们可以用```vector<vector<int>> memo```来代替TreeMap以获得更优的时间复杂度。memo[i][j]表示的意义即为当使用了前i个nums的数，组成的和为j的可能的组合数量。需要指出的是，由于nums排列求和之后可能是负数，需要在使用memo时将数组索引统一加上1000。
