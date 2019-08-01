@@ -2,8 +2,8 @@
 LeetCode Training based on c++
 
 ## Tips: 
-* Click the `**#(_Number_)**` to the Questions
-* Click the `**_Solution_**` to the Solutions
+* Click the `#(_Number_)` to the Questions
+* Click the `_Solution_` to the Solutions
 
 | # |  Title  |  Difficulty  |  Method  | _Solution_
 |:-:|:-:|:-:|:-:|:-:|
