@@ -1,6 +1,6 @@
 # PlayLeetCode
 LeetCode Training based on c++
-Backtracking-Recursion
+Dynamic Programming
 
 ## Tips: 
 * Click the ***`Number`***( # ) to the Questions
