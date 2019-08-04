@@ -19,5 +19,5 @@ Greedy
 [0455]: https://leetcode.com/problems/assign-cookies/
 
 [0392-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/GreedyAlgorithm/392-Is-Subsequence/main.cpp
-[0063-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/GreedyAlgorithm/435-Non-overlapping-Intervals/main.cpp
-[0064-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/GreedyAlgorithm/455-Assign-Cookies/main.cpp
+[0435-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/GreedyAlgorithm/435-Non-overlapping-Intervals/main.cpp
+[0455-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/GreedyAlgorithm/455-Assign-Cookies/main.cpp

@@ -126,9 +126,11 @@ LeetCode Training based on c++
 |[0350] | Intersection-of-Two-Arrays-II                     | Easy      | Hash map                      |[0350-Solution]|
 |[0376] | Wiggle-Subsequence                                                    | Medium    | DP          |[0376-Solution]|
 |[0377] | Combination-Sum-IV                                                    | Medium    | DP         |[0377-Solution]|
+|[0392] | Is-Subsequence                                                | Medium    | Greedy        |[0392-Solution]|
 |[0404] | Sum of Left Leaves                                        | Easy      | DFS                   |[0404-Solution] |
 |[0416] | Partition-Equal-Subset-Sum                                            | Medium    | DP          |[0416-Solution]|
 |[0417] | Pacific Atlantic Water Flow                               | Medium    | Backtracking          |[0417-Solution]|
+|[0435] | Non-overlapping-Intervals                                     | Medium    | Greedy        |[0435-Solution]|
 |[0437] | Path Sum III                                              | Easy      | DFS                   |[0437-Solution] |
 |[0438] | Find-All-Anagrams-in-a-String                     | Medium    | Sliding-Window, Hash set      |[0438-Solution]|
 |[0445] | Add-Two-Numbers-II                                | Medium    | 1.Reverse LinkedList 2.Stack  |[0445-Solution] |
@@ -136,6 +138,7 @@ LeetCode Training based on c++
 |[0450] | Delete Node in a BST                                      | Medium    | BST                   |[0450-Solution] |
 |[0451] | Sort-Characters-By-Frequency                      | Medium    | Hash map                      |[0451-Solution]|
 |[0454] | 4Sum-II                                           | Medium    | Hash map                      |[0454-Solution]|
+|[0455] | Assign-Cookies                                                | Easy      | Greedy        |[0455-Solution]|
 |[0474] | Ones-and-Zeroes                                                       | Medium    | DP          |[0474-Solution]|
 |[0494] | Target-Sum                                                            | Medium    | DP          |[0494-Solution]|
 |[0714] | Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee                  | Medium    | DP          |[0714-Solution]|
@@ -523,3 +526,12 @@ LeetCode Training based on c++
 [0474-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0474-Ones-and-Zeroes
 [0494-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/tree/master/DynamicProgramming/0494-Target-Sum
 [0714-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/DynamicProgramming/0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee/main.cpp
+
+
+[0392]: https://leetcode.com/problems/is-subsequence/
+[0435]: https://leetcode.com/problems/non-overlapping-intervals/
+[0455]: https://leetcode.com/problems/assign-cookies/
+
+[0392-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/GreedyAlgorithm/392-Is-Subsequence/main.cpp
+[0435-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/GreedyAlgorithm/435-Non-overlapping-Intervals/main.cpp
+[0455-Solution]: https://github.com/FeiZhao0531/PlayLeetCode/blob/master/GreedyAlgorithm/455-Assign-Cookies/main.cpp
