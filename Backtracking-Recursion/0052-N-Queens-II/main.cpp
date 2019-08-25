@@ -22,8 +22,8 @@ public:
             return 0;
         this->n = n;
         col = vector<bool>( n ,false);
-        dia1 = vector<bool>( n, false);
-        dia2 = vector<bool>( n, false);
+        dia1 = vector<bool>( 2*n-1, false);
+        dia2 = vector<bool>( 2*n-1, false);
         int num = 0;
         helper( 0, num);
 

@@ -37,7 +37,7 @@ private:
         int l = sIndex, r = s.size() - 1;
         for( ; r >= l; r --)
             if( isPalindrome( s, l, r)) {
-                path.push_back( s.substr( l, r -l + 1));
+                path.push_back( s.substr( l, r - l + 1));
                 findPartition( s, r + 1, path);
                 path.pop_back();
             }
@@ -72,7 +72,7 @@ void print2DVec(const vector< vector<string> >& vec){
 
 int main() {
 
-    print2DVec(Solution().partition("aab"));
+    print2DVec(Solution().partition("aaab"));
 
     return 0;
 }

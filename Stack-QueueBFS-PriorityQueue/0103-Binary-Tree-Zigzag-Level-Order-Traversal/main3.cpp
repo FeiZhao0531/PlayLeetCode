@@ -34,7 +34,7 @@ public:
         if( !root)
             return res;
 
-        queue< pair< TreeNode*> > q;
+        queue< TreeNode*> q;
         q.push( root);
         bool odd = false; // the first layer num = 0
         while( !q.empty()) {
