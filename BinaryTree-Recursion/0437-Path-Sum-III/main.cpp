@@ -1,7 +1,6 @@
 /// Source : https://leetcode.com/problems/path-sum-iii/description/
 /// Author : Fei
 /// Time   : Jun-20-2019
-/// Time   : Jun-20-2019
 
 #include "../BinaryTree.cpp"
 #include "../BinaryTree.h"
